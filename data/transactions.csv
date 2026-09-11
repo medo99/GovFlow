@@ -1,0 +1,1001 @@
+case_id,created_at,department,stage,transaction_type,priority,sla_hours,age_hours,queue_size,delay_risk_pct,status
+GF-100001,2026-07-16T16:29,HR,Review,Project Update,Normal,24,963,24,99,Delayed
+GF-100002,2026-07-22T17:29,Procurement,Intake,Contract Review,Normal,168,818,15,99,Delayed
+GF-100003,2026-08-24T02:29,HR,Final Approval,Contract Review,Normal,48,41,44,71,Active
+GF-100004,2026-08-08T19:29,HR,Review,Contract Review,Urgent,48,408,27,99,Delayed
+GF-100005,2026-08-04T16:29,Procurement,Validation,Approval Request,High,24,507,32,99,Delayed
+GF-100006,2026-07-22T16:29,Legal,Manager Approval,Procurement Request,Normal,120,819,50,99,Delayed
+GF-100007,2026-08-21T18:29,Finance,Completed,Payment Request,Normal,48,97,24,13,Completed
+GF-100008,2026-08-02T14:29,Finance,Review,Procurement Request,Normal,72,557,27,99,Delayed
+GF-100009,2026-07-22T12:29,Procurement,Review,Project Update,Normal,48,823,50,99,Delayed
+GF-100010,2026-08-22T12:29,Finance,Review,Procurement Request,High,24,79,14,99,Delayed
+GF-100011,2026-08-05T13:29,Procurement,Completed,Payment Request,Normal,120,486,51,5,Completed
+GF-100012,2026-07-21T02:29,HR,Manager Approval,Payment Request,Normal,72,857,47,99,Delayed
+GF-100013,2026-08-17T03:29,Legal,Completed,Project Update,Normal,120,208,17,6,Completed
+GF-100014,2026-08-21T07:29,Customer Care,Completed,Approval Request,High,120,108,43,18,Completed
+GF-100015,2026-08-18T02:29,HR,Review,Contract Review,Normal,72,185,28,99,Delayed
+GF-100016,2026-08-09T03:29,Customer Care,Completed,Procurement Request,Normal,48,400,50,17,Completed
+GF-100017,2026-08-02T14:29,Customer Care,Completed,Approval Request,Normal,168,557,48,16,Completed
+GF-100018,2026-08-02T10:29,Legal,Review,Approval Request,High,48,561,46,99,Delayed
+GF-100019,2026-08-21T02:29,Projects,Final Approval,Payment Request,Normal,48,113,45,99,Delayed
+GF-100020,2026-07-18T06:29,Customer Care,Completed,Citizen Request,Urgent,48,925,54,10,Completed
+GF-100021,2026-07-15T08:29,Customer Care,Manager Approval,Approval Request,Normal,120,995,25,99,Delayed
+GF-100022,2026-07-19T02:29,Customer Care,Review,Contract Review,Normal,48,905,14,99,Delayed
+GF-100023,2026-08-23T09:29,Customer Care,Review,Contract Review,Normal,24,58,52,99,Delayed
+GF-100024,2026-07-20T01:29,Projects,Completed,Approval Request,High,120,882,36,4,Completed
+GF-100025,2026-08-03T06:29,Procurement,Completed,Citizen Request,High,120,541,13,2,Completed
+GF-100026,2026-08-19T12:29,Projects,Manager Approval,Contract Review,Normal,48,151,18,99,Delayed
+GF-100027,2026-08-10T17:29,Customer Care,Validation,Approval Request,Urgent,120,362,51,99,Delayed
+GF-100028,2026-08-10T14:29,Procurement,Manager Approval,Contract Review,Normal,120,365,35,99,Delayed
+GF-100029,2026-08-01T11:29,Finance,Review,Contract Review,Normal,120,584,56,99,Delayed
+GF-100030,2026-08-12T18:29,HR,Manager Approval,Approval Request,Normal,168,313,57,99,Delayed
+GF-100031,2026-07-26T03:29,Projects,Intake,Contract Review,Normal,168,736,42,99,Delayed
+GF-100032,2026-08-21T12:29,Legal,Completed,Procurement Request,Normal,120,103,46,2,Completed
+GF-100033,2026-07-14T01:29,Customer Care,Review,Project Update,High,168,1026,26,99,Delayed
+GF-100034,2026-08-10T11:29,Projects,Final Approval,Payment Request,Urgent,120,368,29,99,Delayed
+GF-100035,2026-08-21T19:29,Customer Care,Completed,Contract Review,Normal,120,96,16,18,Completed
+GF-100036,2026-08-17T08:29,Projects,Review,Procurement Request,High,24,203,20,99,Delayed
+GF-100037,2026-07-16T23:29,Legal,Final Approval,Project Update,Normal,168,956,45,99,Delayed
+GF-100038,2026-08-17T11:29,Legal,Final Approval,Payment Request,Normal,24,200,19,99,Delayed
+GF-100039,2026-07-11T09:29,HR,Final Approval,Citizen Request,Normal,48,1090,26,99,Delayed
+GF-100040,2026-08-22T17:29,Finance,Intake,Project Update,Urgent,120,74,31,45,Active
+GF-100041,2026-08-15T05:29,HR,Review,Approval Request,Urgent,168,254,10,90,Delayed
+GF-100042,2026-07-12T15:29,Legal,Completed,Contract Review,Normal,168,1060,47,14,Completed
+GF-100043,2026-08-02T18:29,Projects,Final Approval,Payment Request,High,72,553,52,99,Delayed
+GF-100044,2026-07-30T00:29,Projects,Completed,Contract Review,High,48,643,21,1,Completed
+GF-100045,2026-08-04T06:29,Finance,Validation,Citizen Request,High,48,517,54,99,Delayed
+GF-100046,2026-07-26T12:29,Procurement,Review,Contract Review,Normal,48,727,60,99,Delayed
+GF-100047,2026-08-13T07:29,Finance,Completed,Project Update,Normal,72,300,59,12,Completed
+GF-100048,2026-07-13T02:29,Legal,Validation,Procurement Request,Urgent,72,1049,26,99,Delayed
+GF-100049,2026-08-09T18:29,Customer Care,Review,Citizen Request,Normal,24,385,56,99,Delayed
+GF-100050,2026-07-24T16:29,Customer Care,Validation,Approval Request,Normal,120,771,12,99,Delayed
+GF-100051,2026-07-22T13:29,Procurement,Intake,Procurement Request,Normal,72,822,52,99,Delayed
+GF-100052,2026-08-18T10:29,Finance,Final Approval,Project Update,Normal,168,177,30,73,Delayed
+GF-100053,2026-08-17T13:29,HR,Completed,Citizen Request,Normal,120,198,53,10,Completed
+GF-100054,2026-08-25T10:29,Projects,Review,Citizen Request,Normal,72,9,47,47,Active
+GF-100055,2026-07-13T13:29,Procurement,Completed,Payment Request,Normal,168,1038,60,3,Completed
+GF-100056,2026-07-16T00:29,Legal,Completed,Contract Review,High,72,979,58,10,Completed
+GF-100057,2026-08-16T19:29,Projects,Completed,Citizen Request,High,24,216,49,15,Completed
+GF-100058,2026-07-20T13:29,Procurement,Review,Approval Request,High,120,870,19,99,Delayed
+GF-100059,2026-08-11T14:29,Procurement,Intake,Citizen Request,Normal,168,341,25,99,Delayed
+GF-100060,2026-07-27T03:29,Customer Care,Review,Procurement Request,High,168,712,58,99,Delayed
+GF-100061,2026-07-24T06:29,Procurement,Completed,Payment Request,High,168,781,57,15,Completed
+GF-100062,2026-07-16T11:29,Procurement,Manager Approval,Approval Request,High,168,968,27,99,Delayed
+GF-100063,2026-08-10T11:29,Finance,Completed,Contract Review,Normal,72,368,15,5,Completed
+GF-100064,2026-08-16T13:29,Procurement,Review,Citizen Request,Normal,24,222,44,99,Delayed
+GF-100065,2026-07-30T07:29,HR,Intake,Citizen Request,Normal,168,636,58,99,Delayed
+GF-100066,2026-08-03T10:29,Procurement,Manager Approval,Citizen Request,Normal,120,537,57,99,Delayed
+GF-100067,2026-07-29T04:29,Procurement,Review,Project Update,Normal,24,663,53,99,Delayed
+GF-100068,2026-07-27T15:29,Customer Care,Intake,Approval Request,Normal,168,700,35,99,Delayed
+GF-100069,2026-08-17T05:29,Legal,Review,Citizen Request,Normal,48,206,30,99,Delayed
+GF-100070,2026-08-01T11:29,Finance,Completed,Approval Request,Urgent,120,584,40,18,Completed
+GF-100071,2026-08-03T12:29,HR,Intake,Contract Review,High,24,535,11,99,Delayed
+GF-100072,2026-07-17T15:29,Projects,Manager Approval,Citizen Request,High,48,940,17,99,Delayed
+GF-100073,2026-08-02T14:29,Customer Care,Completed,Payment Request,Normal,168,557,55,6,Completed
+GF-100074,2026-08-24T10:29,HR,Completed,Approval Request,Normal,168,33,34,7,Completed
+GF-100075,2026-07-16T12:29,HR,Completed,Payment Request,Normal,24,967,53,2,Completed
+GF-100076,2026-07-14T08:29,Customer Care,Final Approval,Citizen Request,Normal,24,1019,10,99,Delayed
+GF-100077,2026-08-01T23:29,HR,Validation,Project Update,Normal,120,572,21,99,Delayed
+GF-100078,2026-07-22T04:29,Procurement,Completed,Contract Review,High,120,831,47,11,Completed
+GF-100079,2026-08-20T11:29,Projects,Completed,Approval Request,Normal,120,128,46,11,Completed
+GF-100080,2026-08-05T14:29,Projects,Review,Payment Request,High,120,485,26,99,Delayed
+GF-100081,2026-07-12T11:29,Legal,Manager Approval,Contract Review,High,168,1064,22,99,Delayed
+GF-100082,2026-07-25T02:29,HR,Manager Approval,Citizen Request,High,48,761,55,99,Delayed
+GF-100083,2026-08-20T10:29,Procurement,Final Approval,Citizen Request,Normal,48,129,29,99,Delayed
+GF-100084,2026-08-03T06:29,Finance,Review,Payment Request,Normal,168,541,39,99,Delayed
+GF-100085,2026-08-18T13:29,Legal,Final Approval,Contract Review,Normal,72,174,58,99,Delayed
+GF-100086,2026-07-26T11:29,Customer Care,Manager Approval,Payment Request,Normal,168,728,16,99,Delayed
+GF-100087,2026-08-14T10:29,HR,Manager Approval,Approval Request,Normal,24,273,27,99,Delayed
+GF-100088,2026-07-12T15:29,Legal,Completed,Citizen Request,Normal,120,1060,46,16,Completed
+GF-100089,2026-08-14T18:29,Procurement,Validation,Citizen Request,Normal,72,265,14,99,Delayed
+GF-100090,2026-07-16T18:29,Projects,Completed,Approval Request,Normal,48,961,29,8,Completed
+GF-100091,2026-07-30T00:29,Customer Care,Review,Citizen Request,Urgent,168,643,43,99,Delayed
+GF-100092,2026-08-06T01:29,Finance,Manager Approval,Contract Review,Normal,120,474,13,99,Delayed
+GF-100093,2026-08-09T17:29,Projects,Validation,Approval Request,Normal,48,386,14,99,Delayed
+GF-100094,2026-07-12T00:29,Finance,Intake,Project Update,High,120,1075,28,99,Delayed
+GF-100095,2026-08-21T12:29,HR,Manager Approval,Approval Request,Normal,72,103,22,99,Delayed
+GF-100096,2026-07-15T15:29,Projects,Intake,Procurement Request,High,72,988,20,99,Delayed
+GF-100097,2026-07-20T10:29,Legal,Manager Approval,Payment Request,Normal,120,873,29,99,Delayed
+GF-100098,2026-07-25T05:29,Customer Care,Intake,Procurement Request,Normal,24,758,37,99,Delayed
+GF-100099,2026-08-20T12:29,Customer Care,Completed,Contract Review,Normal,168,127,58,2,Completed
+GF-100100,2026-07-15T05:29,Projects,Completed,Citizen Request,Normal,72,998,37,3,Completed
+GF-100101,2026-08-04T09:29,Projects,Review,Payment Request,High,24,514,54,99,Delayed
+GF-100102,2026-07-31T02:29,Procurement,Validation,Approval Request,Urgent,24,617,26,99,Delayed
+GF-100103,2026-07-31T03:29,HR,Completed,Contract Review,Normal,24,616,39,2,Completed
+GF-100104,2026-07-17T04:29,Legal,Review,Payment Request,Normal,120,951,45,99,Delayed
+GF-100105,2026-07-12T04:29,Legal,Completed,Payment Request,Normal,24,1071,48,6,Completed
+GF-100106,2026-07-21T06:29,Projects,Completed,Project Update,High,24,853,17,4,Completed
+GF-100107,2026-07-25T10:29,HR,Review,Contract Review,Normal,168,753,40,99,Delayed
+GF-100108,2026-08-16T07:29,Customer Care,Manager Approval,Payment Request,High,48,228,18,99,Delayed
+GF-100109,2026-07-30T09:29,Finance,Completed,Contract Review,Normal,168,634,28,16,Completed
+GF-100110,2026-07-26T08:29,Customer Care,Completed,Contract Review,Urgent,72,731,34,11,Completed
+GF-100111,2026-08-10T01:29,Projects,Completed,Project Update,Normal,120,378,36,11,Completed
+GF-100112,2026-08-01T07:29,Procurement,Completed,Approval Request,High,48,588,18,11,Completed
+GF-100113,2026-07-28T16:29,Procurement,Intake,Project Update,Urgent,168,675,19,99,Delayed
+GF-100114,2026-08-21T04:29,Finance,Manager Approval,Payment Request,High,72,111,35,99,Delayed
+GF-100115,2026-07-22T07:29,HR,Final Approval,Procurement Request,Normal,72,828,58,99,Delayed
+GF-100116,2026-08-21T12:29,Projects,Final Approval,Project Update,High,72,103,37,85,Delayed
+GF-100117,2026-08-19T05:29,HR,Review,Payment Request,High,48,158,11,99,Delayed
+GF-100118,2026-08-07T08:29,Procurement,Validation,Procurement Request,High,72,443,43,99,Delayed
+GF-100119,2026-08-14T14:29,Legal,Manager Approval,Citizen Request,Urgent,48,269,34,99,Delayed
+GF-100120,2026-08-16T12:29,HR,Review,Citizen Request,Urgent,120,223,26,99,Delayed
+GF-100121,2026-07-13T02:29,Legal,Review,Project Update,Urgent,48,1049,32,99,Delayed
+GF-100122,2026-07-12T11:29,Finance,Validation,Approval Request,Normal,120,1064,34,99,Delayed
+GF-100123,2026-07-20T08:29,Finance,Completed,Payment Request,Normal,168,875,28,13,Completed
+GF-100124,2026-07-13T18:29,HR,Manager Approval,Procurement Request,High,168,1033,28,99,Delayed
+GF-100125,2026-08-10T23:29,Customer Care,Review,Project Update,Normal,48,356,58,99,Delayed
+GF-100126,2026-07-15T23:29,Finance,Completed,Approval Request,Urgent,24,980,12,5,Completed
+GF-100127,2026-08-05T06:29,Projects,Validation,Procurement Request,Normal,48,493,44,99,Delayed
+GF-100128,2026-08-08T14:29,Procurement,Completed,Citizen Request,Urgent,72,413,28,4,Completed
+GF-100129,2026-08-16T12:29,Customer Care,Review,Approval Request,Normal,120,223,60,99,Delayed
+GF-100130,2026-08-18T05:29,HR,Final Approval,Project Update,Urgent,72,182,26,99,Delayed
+GF-100131,2026-08-19T12:29,Legal,Manager Approval,Procurement Request,Normal,120,151,45,99,Delayed
+GF-100132,2026-08-20T23:29,HR,Review,Contract Review,Normal,120,116,36,76,Active
+GF-100133,2026-08-23T10:29,Legal,Validation,Citizen Request,Normal,120,57,44,52,Active
+GF-100134,2026-07-14T02:29,Customer Care,Final Approval,Project Update,Normal,120,1025,19,99,Delayed
+GF-100135,2026-07-25T00:29,Finance,Intake,Citizen Request,Normal,120,763,33,99,Delayed
+GF-100136,2026-08-10T08:29,HR,Review,Approval Request,Normal,24,371,51,99,Delayed
+GF-100137,2026-08-13T16:29,Legal,Final Approval,Approval Request,High,120,291,51,99,Delayed
+GF-100138,2026-08-10T15:29,Projects,Intake,Procurement Request,Normal,168,364,58,99,Delayed
+GF-100139,2026-08-11T09:29,Customer Care,Intake,Procurement Request,Normal,48,346,19,99,Delayed
+GF-100140,2026-08-14T16:29,Projects,Intake,Procurement Request,Normal,24,267,60,99,Delayed
+GF-100141,2026-08-14T11:29,Projects,Final Approval,Project Update,Normal,24,272,43,99,Delayed
+GF-100142,2026-07-28T08:29,Customer Care,Validation,Procurement Request,Normal,168,683,42,99,Delayed
+GF-100143,2026-07-14T03:29,Procurement,Final Approval,Citizen Request,High,72,1024,11,99,Delayed
+GF-100144,2026-07-29T16:29,HR,Completed,Procurement Request,Normal,120,651,14,11,Completed
+GF-100145,2026-08-17T11:29,HR,Manager Approval,Citizen Request,Urgent,168,200,55,99,Delayed
+GF-100146,2026-07-23T10:29,Customer Care,Manager Approval,Project Update,High,120,801,16,99,Delayed
+GF-100147,2026-07-21T13:29,Procurement,Completed,Citizen Request,Normal,120,846,36,15,Completed
+GF-100148,2026-08-19T09:29,Finance,Final Approval,Project Update,Urgent,120,154,33,78,Delayed
+GF-100149,2026-08-21T17:29,Legal,Review,Contract Review,Normal,24,98,57,99,Delayed
+GF-100150,2026-07-19T02:29,Finance,Final Approval,Project Update,Urgent,168,905,36,99,Delayed
+GF-100151,2026-07-29T18:29,Customer Care,Review,Contract Review,Normal,72,649,16,99,Delayed
+GF-100152,2026-07-26T12:29,Finance,Completed,Procurement Request,Normal,24,727,33,9,Completed
+GF-100153,2026-07-29T02:29,Customer Care,Final Approval,Procurement Request,Urgent,168,665,45,99,Delayed
+GF-100154,2026-07-12T11:29,Projects,Review,Payment Request,Normal,24,1064,58,99,Delayed
+GF-100155,2026-08-14T15:29,HR,Review,Approval Request,High,168,268,19,95,Delayed
+GF-100156,2026-08-12T07:29,Procurement,Review,Project Update,Normal,120,324,33,99,Delayed
+GF-100157,2026-07-20T00:29,Legal,Validation,Project Update,Normal,24,883,58,99,Delayed
+GF-100158,2026-07-28T06:29,Customer Care,Review,Procurement Request,Normal,120,685,27,99,Delayed
+GF-100159,2026-07-29T16:29,HR,Final Approval,Project Update,Normal,72,651,41,99,Delayed
+GF-100160,2026-08-11T07:29,Legal,Intake,Contract Review,High,168,348,29,99,Delayed
+GF-100161,2026-08-07T09:29,Legal,Manager Approval,Contract Review,Normal,24,442,37,99,Delayed
+GF-100162,2026-07-11T12:29,Customer Care,Completed,Project Update,Normal,168,1087,32,13,Completed
+GF-100163,2026-08-24T05:29,Finance,Manager Approval,Project Update,Normal,24,38,46,99,Delayed
+GF-100164,2026-08-07T16:29,Legal,Completed,Approval Request,Normal,120,435,20,12,Completed
+GF-100165,2026-08-19T12:29,Customer Care,Review,Payment Request,High,120,151,15,89,Delayed
+GF-100166,2026-08-11T09:29,Legal,Manager Approval,Procurement Request,Normal,48,346,17,99,Delayed
+GF-100167,2026-08-03T08:29,Projects,Validation,Contract Review,Normal,48,539,26,99,Delayed
+GF-100168,2026-07-15T17:29,HR,Manager Approval,Project Update,Urgent,48,986,58,99,Delayed
+GF-100169,2026-07-19T23:29,Finance,Completed,Citizen Request,Normal,168,884,50,5,Completed
+GF-100170,2026-07-27T23:29,Finance,Manager Approval,Approval Request,Normal,72,692,32,99,Delayed
+GF-100171,2026-07-28T18:29,Finance,Completed,Citizen Request,Normal,24,673,14,17,Completed
+GF-100172,2026-07-21T18:29,Customer Care,Final Approval,Procurement Request,Normal,120,841,30,99,Delayed
+GF-100173,2026-08-22T05:29,Finance,Completed,Approval Request,Normal,24,86,15,6,Completed
+GF-100174,2026-07-28T05:29,Customer Care,Manager Approval,Payment Request,Normal,168,686,33,99,Delayed
+GF-100175,2026-08-04T00:29,HR,Final Approval,Approval Request,Normal,24,523,14,99,Delayed
+GF-100176,2026-08-01T10:29,HR,Completed,Approval Request,Normal,72,585,48,11,Completed
+GF-100177,2026-08-16T08:29,HR,Final Approval,Procurement Request,High,72,227,35,99,Delayed
+GF-100178,2026-08-20T10:29,Procurement,Final Approval,Project Update,High,168,129,31,60,Active
+GF-100179,2026-07-13T03:29,HR,Final Approval,Approval Request,Normal,24,1048,42,99,Delayed
+GF-100180,2026-08-14T13:29,Procurement,Validation,Approval Request,Normal,72,270,18,99,Delayed
+GF-100181,2026-08-19T03:29,HR,Completed,Procurement Request,Normal,168,160,12,5,Completed
+GF-100182,2026-08-15T14:29,Projects,Final Approval,Payment Request,High,168,245,12,85,Delayed
+GF-100183,2026-08-10T05:29,Finance,Completed,Procurement Request,Normal,168,374,60,8,Completed
+GF-100184,2026-07-26T13:29,HR,Completed,Citizen Request,Normal,72,726,38,10,Completed
+GF-100185,2026-07-30T14:29,Customer Care,Validation,Project Update,Normal,48,629,26,99,Delayed
+GF-100186,2026-08-02T02:29,HR,Completed,Contract Review,Normal,24,569,17,3,Completed
+GF-100187,2026-07-24T15:29,Legal,Completed,Approval Request,Normal,120,772,24,12,Completed
+GF-100188,2026-07-31T03:29,Projects,Review,Contract Review,Normal,72,616,15,99,Delayed
+GF-100189,2026-08-18T23:29,Projects,Validation,Project Update,High,72,164,28,99,Delayed
+GF-100190,2026-07-11T04:29,Customer Care,Intake,Payment Request,Normal,120,1095,15,99,Delayed
+GF-100191,2026-08-16T02:29,Customer Care,Review,Contract Review,Normal,168,233,59,99,Delayed
+GF-100192,2026-08-22T12:29,HR,Completed,Citizen Request,Normal,120,79,39,4,Completed
+GF-100193,2026-08-23T23:29,Customer Care,Review,Citizen Request,Normal,168,44,19,40,Active
+GF-100194,2026-08-03T12:29,Procurement,Validation,Procurement Request,Urgent,168,535,52,99,Delayed
+GF-100195,2026-08-21T03:29,Customer Care,Completed,Citizen Request,Normal,168,112,42,13,Completed
+GF-100196,2026-08-01T08:29,HR,Intake,Payment Request,Normal,72,587,60,99,Delayed
+GF-100197,2026-07-13T23:29,Customer Care,Final Approval,Approval Request,Normal,24,1028,31,99,Delayed
+GF-100198,2026-08-03T23:29,HR,Manager Approval,Project Update,Normal,48,524,54,99,Delayed
+GF-100199,2026-08-17T17:29,Legal,Review,Approval Request,Normal,120,194,12,99,Delayed
+GF-100200,2026-08-06T03:29,Customer Care,Manager Approval,Payment Request,Normal,120,472,12,99,Delayed
+GF-100201,2026-08-21T23:29,Finance,Validation,Citizen Request,High,72,92,33,86,Delayed
+GF-100202,2026-08-01T09:29,Procurement,Final Approval,Payment Request,High,48,586,33,99,Delayed
+GF-100203,2026-07-29T17:29,Customer Care,Completed,Approval Request,Normal,120,650,21,11,Completed
+GF-100204,2026-07-14T10:29,Procurement,Manager Approval,Project Update,Normal,72,1017,37,99,Delayed
+GF-100205,2026-07-28T18:29,Customer Care,Completed,Project Update,Normal,72,673,27,3,Completed
+GF-100206,2026-08-02T03:29,Legal,Validation,Approval Request,Normal,48,568,48,99,Delayed
+GF-100207,2026-08-09T23:29,Finance,Review,Procurement Request,Normal,72,380,46,99,Delayed
+GF-100208,2026-07-28T08:29,Procurement,Completed,Payment Request,Normal,72,683,46,17,Completed
+GF-100209,2026-07-15T11:29,Legal,Intake,Procurement Request,Normal,48,992,21,99,Delayed
+GF-100210,2026-07-21T16:29,Finance,Final Approval,Project Update,Urgent,72,843,23,99,Delayed
+GF-100211,2026-07-25T13:29,Projects,Completed,Approval Request,High,24,750,38,15,Completed
+GF-100212,2026-08-05T08:29,Customer Care,Manager Approval,Project Update,High,24,491,29,99,Delayed
+GF-100213,2026-07-11T23:29,Finance,Manager Approval,Contract Review,Normal,48,1076,17,99,Delayed
+GF-100214,2026-07-25T19:29,Customer Care,Manager Approval,Procurement Request,High,72,744,39,99,Delayed
+GF-100215,2026-08-21T10:29,HR,Final Approval,Citizen Request,High,120,105,43,72,Active
+GF-100216,2026-08-21T15:29,HR,Intake,Payment Request,Normal,72,100,39,97,Delayed
+GF-100217,2026-07-20T23:29,Projects,Completed,Approval Request,High,168,860,18,17,Completed
+GF-100218,2026-07-23T15:29,Projects,Validation,Payment Request,Urgent,72,796,55,99,Delayed
+GF-100219,2026-07-23T10:29,Finance,Validation,Contract Review,Normal,24,801,45,99,Delayed
+GF-100220,2026-07-17T02:29,Customer Care,Final Approval,Contract Review,High,24,953,47,99,Delayed
+GF-100221,2026-07-18T09:29,Legal,Completed,Project Update,High,168,922,11,2,Completed
+GF-100222,2026-08-08T23:29,Customer Care,Review,Citizen Request,High,48,404,50,99,Delayed
+GF-100223,2026-07-22T10:29,Procurement,Review,Payment Request,Normal,72,825,53,99,Delayed
+GF-100224,2026-07-12T18:29,Procurement,Review,Payment Request,Normal,48,1057,39,99,Delayed
+GF-100225,2026-08-05T09:29,Procurement,Validation,Procurement Request,Normal,72,490,33,99,Delayed
+GF-100226,2026-08-10T05:29,Finance,Review,Approval Request,Normal,24,374,19,99,Delayed
+GF-100227,2026-08-01T00:29,Projects,Completed,Contract Review,High,120,595,20,11,Completed
+GF-100228,2026-07-25T03:29,Procurement,Completed,Citizen Request,Normal,120,760,41,3,Completed
+GF-100229,2026-08-10T13:29,Finance,Intake,Procurement Request,High,168,366,28,99,Delayed
+GF-100230,2026-07-15T04:29,Customer Care,Intake,Contract Review,High,72,999,16,99,Delayed
+GF-100231,2026-08-02T07:29,Legal,Review,Payment Request,Normal,72,564,46,99,Delayed
+GF-100232,2026-08-21T07:29,Procurement,Completed,Approval Request,Normal,168,108,27,5,Completed
+GF-100233,2026-08-04T02:29,Projects,Validation,Procurement Request,Normal,72,521,42,99,Delayed
+GF-100234,2026-08-23T15:29,Procurement,Manager Approval,Contract Review,Normal,72,52,19,77,Active
+GF-100235,2026-07-17T09:29,Procurement,Completed,Procurement Request,High,48,946,57,11,Completed
+GF-100236,2026-07-22T04:29,Finance,Manager Approval,Payment Request,High,168,831,11,99,Delayed
+GF-100237,2026-07-30T01:29,HR,Completed,Payment Request,Urgent,72,642,50,16,Completed
+GF-100238,2026-07-19T01:29,HR,Intake,Procurement Request,Normal,48,906,40,99,Delayed
+GF-100239,2026-07-17T07:29,HR,Review,Contract Review,Normal,48,948,46,99,Delayed
+GF-100240,2026-08-05T06:29,Procurement,Final Approval,Procurement Request,Urgent,48,493,36,99,Delayed
+GF-100241,2026-08-22T15:29,Projects,Manager Approval,Procurement Request,Normal,168,76,52,70,Active
+GF-100242,2026-08-14T05:29,Finance,Manager Approval,Procurement Request,Normal,168,278,53,99,Delayed
+GF-100243,2026-08-10T11:29,Finance,Review,Project Update,Normal,168,368,29,99,Delayed
+GF-100244,2026-07-11T04:29,Procurement,Review,Payment Request,Normal,72,1095,60,99,Delayed
+GF-100245,2026-07-13T02:29,Procurement,Completed,Approval Request,Normal,120,1049,59,10,Completed
+GF-100246,2026-07-11T17:29,Procurement,Final Approval,Contract Review,Normal,72,1082,57,99,Delayed
+GF-100247,2026-07-22T11:29,HR,Review,Contract Review,Normal,168,824,16,99,Delayed
+GF-100248,2026-07-23T12:29,Legal,Validation,Approval Request,High,48,799,31,99,Delayed
+GF-100249,2026-08-17T19:29,Projects,Review,Project Update,Normal,168,192,40,98,Delayed
+GF-100250,2026-08-07T09:29,HR,Intake,Project Update,Normal,72,442,59,99,Delayed
+GF-100251,2026-07-22T18:29,Procurement,Completed,Citizen Request,Normal,48,817,21,13,Completed
+GF-100252,2026-08-07T18:29,Finance,Manager Approval,Payment Request,Normal,24,433,16,99,Delayed
+GF-100253,2026-07-15T02:29,Procurement,Completed,Payment Request,Normal,168,1001,18,15,Completed
+GF-100254,2026-08-18T09:29,HR,Manager Approval,Approval Request,High,48,178,26,99,Delayed
+GF-100255,2026-08-07T01:29,Projects,Manager Approval,Citizen Request,Normal,48,450,50,99,Delayed
+GF-100256,2026-08-20T07:29,Projects,Completed,Approval Request,Normal,24,132,40,8,Completed
+GF-100257,2026-08-10T05:29,Finance,Review,Payment Request,High,72,374,56,99,Delayed
+GF-100258,2026-07-12T12:29,HR,Validation,Citizen Request,High,24,1063,29,99,Delayed
+GF-100259,2026-07-11T10:29,HR,Completed,Contract Review,Urgent,24,1089,28,8,Completed
+GF-100260,2026-07-26T15:29,HR,Completed,Citizen Request,High,120,724,33,18,Completed
+GF-100261,2026-07-14T13:29,HR,Completed,Citizen Request,Normal,48,1014,60,17,Completed
+GF-100262,2026-08-02T17:29,Legal,Intake,Contract Review,Normal,168,554,45,99,Delayed
+GF-100263,2026-08-16T14:29,Customer Care,Review,Project Update,Normal,72,221,53,99,Delayed
+GF-100264,2026-08-20T03:29,Legal,Manager Approval,Citizen Request,Normal,120,136,42,99,Delayed
+GF-100265,2026-07-21T05:29,HR,Intake,Project Update,Normal,72,854,26,99,Delayed
+GF-100266,2026-08-21T18:29,Finance,Final Approval,Approval Request,Urgent,120,97,44,57,Active
+GF-100267,2026-07-26T18:29,Procurement,Validation,Payment Request,Urgent,72,721,18,99,Delayed
+GF-100268,2026-08-01T05:29,Procurement,Validation,Project Update,High,120,590,52,99,Delayed
+GF-100269,2026-08-18T14:29,Procurement,Manager Approval,Approval Request,High,168,173,56,99,Delayed
+GF-100270,2026-08-06T05:29,Procurement,Manager Approval,Citizen Request,Normal,168,470,24,99,Delayed
+GF-100271,2026-08-08T13:29,Legal,Completed,Contract Review,Normal,24,414,36,8,Completed
+GF-100272,2026-07-18T18:29,Customer Care,Final Approval,Project Update,Normal,120,913,13,99,Delayed
+GF-100273,2026-07-28T12:29,Projects,Completed,Procurement Request,Urgent,168,679,59,5,Completed
+GF-100274,2026-08-11T01:29,Customer Care,Manager Approval,Contract Review,Normal,72,354,53,99,Delayed
+GF-100275,2026-08-16T03:29,Procurement,Review,Project Update,High,48,232,13,99,Delayed
+GF-100276,2026-07-21T04:29,Finance,Completed,Payment Request,High,24,855,52,17,Completed
+GF-100277,2026-07-30T15:29,Procurement,Validation,Contract Review,High,72,628,44,99,Delayed
+GF-100278,2026-08-06T15:29,Legal,Manager Approval,Contract Review,Normal,120,460,36,99,Delayed
+GF-100279,2026-08-09T13:29,HR,Intake,Approval Request,Normal,72,390,38,99,Delayed
+GF-100280,2026-08-13T18:29,Procurement,Final Approval,Approval Request,Normal,72,289,48,99,Delayed
+GF-100281,2026-07-19T02:29,Procurement,Review,Approval Request,Normal,48,905,31,99,Delayed
+GF-100282,2026-08-13T16:29,Projects,Final Approval,Citizen Request,Urgent,120,291,55,99,Delayed
+GF-100283,2026-07-21T09:29,Procurement,Manager Approval,Payment Request,Normal,72,850,51,99,Delayed
+GF-100284,2026-07-24T04:29,Legal,Completed,Contract Review,Normal,120,783,56,11,Completed
+GF-100285,2026-07-30T18:29,Projects,Final Approval,Procurement Request,Urgent,168,625,11,99,Delayed
+GF-100286,2026-07-19T06:29,Projects,Validation,Procurement Request,High,72,901,24,99,Delayed
+GF-100287,2026-07-25T02:29,Finance,Completed,Contract Review,High,72,761,41,15,Completed
+GF-100288,2026-08-03T14:29,HR,Manager Approval,Procurement Request,Normal,48,533,21,99,Delayed
+GF-100289,2026-08-21T18:29,Procurement,Validation,Approval Request,High,24,97,50,99,Delayed
+GF-100290,2026-08-25T13:29,Procurement,Review,Project Update,Normal,168,6,49,57,Active
+GF-100291,2026-08-25T02:29,Procurement,Intake,Procurement Request,Urgent,168,17,43,37,Active
+GF-100292,2026-08-24T03:29,Projects,Validation,Contract Review,Normal,120,40,16,36,Active
+GF-100293,2026-07-17T03:29,Finance,Review,Payment Request,Urgent,72,952,35,99,Delayed
+GF-100294,2026-07-27T01:29,HR,Review,Project Update,Urgent,48,714,53,99,Delayed
+GF-100295,2026-07-15T18:29,Procurement,Review,Approval Request,Normal,24,985,45,99,Delayed
+GF-100296,2026-07-12T14:29,Procurement,Completed,Procurement Request,Urgent,24,1061,51,4,Completed
+GF-100297,2026-08-11T13:29,Procurement,Review,Procurement Request,Normal,168,342,14,99,Delayed
+GF-100298,2026-08-23T14:29,Legal,Completed,Approval Request,Normal,72,53,47,13,Completed
+GF-100299,2026-07-20T12:29,Procurement,Final Approval,Citizen Request,High,168,871,44,99,Delayed
+GF-100300,2026-08-17T17:29,HR,Completed,Contract Review,High,168,194,13,14,Completed
+GF-100301,2026-08-04T00:29,Customer Care,Review,Approval Request,Normal,168,523,59,99,Delayed
+GF-100302,2026-07-28T04:29,Finance,Manager Approval,Contract Review,High,48,687,34,99,Delayed
+GF-100303,2026-07-14T07:29,Customer Care,Review,Approval Request,Normal,24,1020,25,99,Delayed
+GF-100304,2026-07-31T23:29,HR,Review,Approval Request,Normal,48,596,33,99,Delayed
+GF-100305,2026-08-06T05:29,Finance,Validation,Citizen Request,Normal,72,470,15,99,Delayed
+GF-100306,2026-07-21T03:29,Legal,Intake,Procurement Request,Normal,120,856,32,99,Delayed
+GF-100307,2026-08-05T07:29,Finance,Review,Project Update,Urgent,24,492,59,99,Delayed
+GF-100308,2026-08-10T01:29,Projects,Final Approval,Payment Request,Normal,168,378,20,99,Delayed
+GF-100309,2026-07-25T15:29,Projects,Review,Citizen Request,High,24,748,36,99,Delayed
+GF-100310,2026-08-02T11:29,HR,Manager Approval,Citizen Request,Normal,48,560,48,99,Delayed
+GF-100311,2026-08-06T19:29,Finance,Completed,Payment Request,Normal,120,456,34,15,Completed
+GF-100312,2026-07-15T00:29,Finance,Review,Citizen Request,Normal,48,1003,54,99,Delayed
+GF-100313,2026-07-31T09:29,HR,Final Approval,Payment Request,Normal,72,610,41,99,Delayed
+GF-100314,2026-07-31T08:29,Customer Care,Validation,Project Update,High,24,611,44,99,Delayed
+GF-100315,2026-08-24T05:29,Procurement,Completed,Project Update,Normal,48,38,54,14,Completed
+GF-100316,2026-07-16T10:29,Finance,Final Approval,Citizen Request,Normal,48,969,55,99,Delayed
+GF-100317,2026-07-18T04:29,Procurement,Manager Approval,Procurement Request,Normal,168,927,54,99,Delayed
+GF-100318,2026-08-02T02:29,HR,Completed,Contract Review,Normal,168,569,16,12,Completed
+GF-100319,2026-08-23T01:29,Finance,Completed,Approval Request,Normal,120,66,37,1,Completed
+GF-100320,2026-07-24T03:29,Customer Care,Final Approval,Payment Request,Normal,168,784,24,99,Delayed
+GF-100321,2026-07-13T01:29,Projects,Review,Approval Request,Normal,168,1050,11,99,Delayed
+GF-100322,2026-08-20T16:29,Finance,Review,Procurement Request,Normal,48,123,39,99,Delayed
+GF-100323,2026-07-26T16:29,HR,Final Approval,Payment Request,Normal,120,723,30,99,Delayed
+GF-100324,2026-07-11T16:29,Finance,Final Approval,Project Update,Normal,24,1083,53,99,Delayed
+GF-100325,2026-08-14T02:29,Finance,Manager Approval,Citizen Request,Normal,48,281,39,99,Delayed
+GF-100326,2026-08-13T23:29,Procurement,Intake,Citizen Request,Normal,120,284,49,99,Delayed
+GF-100327,2026-08-01T19:29,Projects,Review,Procurement Request,Normal,48,576,55,99,Delayed
+GF-100328,2026-07-22T14:29,Finance,Validation,Project Update,High,72,821,17,99,Delayed
+GF-100329,2026-07-22T23:29,Customer Care,Review,Payment Request,Normal,72,812,35,99,Delayed
+GF-100330,2026-07-27T00:29,HR,Final Approval,Project Update,Normal,48,715,29,99,Delayed
+GF-100331,2026-08-18T12:29,Legal,Validation,Procurement Request,Normal,72,175,54,99,Delayed
+GF-100332,2026-07-18T15:29,Procurement,Review,Procurement Request,Normal,168,916,41,99,Delayed
+GF-100333,2026-08-07T15:29,Finance,Completed,Approval Request,Normal,48,436,49,12,Completed
+GF-100334,2026-08-13T07:29,Customer Care,Final Approval,Citizen Request,High,168,300,36,99,Delayed
+GF-100335,2026-07-28T04:29,Legal,Manager Approval,Payment Request,Normal,48,687,60,99,Delayed
+GF-100336,2026-08-11T02:29,Projects,Completed,Procurement Request,Normal,72,353,46,18,Completed
+GF-100337,2026-08-18T11:29,Finance,Manager Approval,Project Update,Normal,168,176,58,88,Delayed
+GF-100338,2026-08-12T06:29,HR,Completed,Approval Request,Normal,24,325,58,10,Completed
+GF-100339,2026-08-03T17:29,Legal,Completed,Project Update,Normal,120,530,25,12,Completed
+GF-100340,2026-07-29T14:29,Projects,Completed,Procurement Request,Normal,168,653,23,12,Completed
+GF-100341,2026-07-22T14:29,HR,Review,Procurement Request,Urgent,72,821,46,99,Delayed
+GF-100342,2026-07-13T16:29,Procurement,Completed,Contract Review,Normal,48,1035,27,5,Completed
+GF-100343,2026-08-05T12:29,Procurement,Validation,Project Update,Normal,120,487,50,99,Delayed
+GF-100344,2026-07-28T17:29,Procurement,Manager Approval,Citizen Request,Urgent,24,674,27,99,Delayed
+GF-100345,2026-08-05T01:29,HR,Validation,Approval Request,High,24,498,39,99,Delayed
+GF-100346,2026-07-31T13:29,Projects,Manager Approval,Payment Request,Normal,120,606,30,99,Delayed
+GF-100347,2026-08-17T01:29,Finance,Completed,Approval Request,Normal,120,210,58,2,Completed
+GF-100348,2026-07-27T19:29,Projects,Review,Contract Review,Urgent,24,696,10,99,Delayed
+GF-100349,2026-08-16T23:29,Projects,Completed,Payment Request,Normal,72,212,27,12,Completed
+GF-100350,2026-07-13T23:29,Legal,Review,Citizen Request,High,48,1028,29,99,Delayed
+GF-100351,2026-07-11T16:29,Projects,Manager Approval,Procurement Request,High,24,1083,18,99,Delayed
+GF-100352,2026-08-25T19:29,Legal,Completed,Approval Request,Normal,72,1,37,16,Completed
+GF-100353,2026-08-20T16:29,Finance,Review,Citizen Request,High,24,123,29,99,Delayed
+GF-100354,2026-08-16T23:29,Legal,Manager Approval,Citizen Request,Normal,48,212,10,99,Delayed
+GF-100355,2026-08-11T23:29,Procurement,Manager Approval,Approval Request,High,48,332,38,99,Delayed
+GF-100356,2026-08-17T16:29,HR,Review,Contract Review,Normal,168,195,37,92,Delayed
+GF-100357,2026-07-15T17:29,Customer Care,Manager Approval,Project Update,Normal,48,986,56,99,Delayed
+GF-100358,2026-07-14T10:29,Customer Care,Manager Approval,Payment Request,Normal,48,1017,22,99,Delayed
+GF-100359,2026-08-10T04:29,Legal,Review,Procurement Request,High,120,375,50,99,Delayed
+GF-100360,2026-08-25T08:29,Projects,Review,Payment Request,Normal,72,11,46,51,Active
+GF-100361,2026-08-14T04:29,Legal,Manager Approval,Contract Review,Normal,24,279,10,99,Delayed
+GF-100362,2026-08-22T07:29,Finance,Manager Approval,Citizen Request,High,168,84,42,66,Active
+GF-100363,2026-08-19T23:29,Customer Care,Manager Approval,Payment Request,Normal,168,140,27,64,Active
+GF-100364,2026-08-12T15:29,Finance,Review,Payment Request,High,168,316,50,99,Delayed
+GF-100365,2026-08-10T18:29,Legal,Completed,Payment Request,High,48,361,17,2,Completed
+GF-100366,2026-07-14T14:29,Legal,Final Approval,Contract Review,Normal,24,1013,54,99,Delayed
+GF-100367,2026-08-03T03:29,HR,Review,Project Update,High,168,544,33,99,Delayed
+GF-100368,2026-08-08T16:29,Finance,Completed,Payment Request,High,24,411,27,3,Completed
+GF-100369,2026-07-19T23:29,Procurement,Manager Approval,Citizen Request,High,24,884,33,99,Delayed
+GF-100370,2026-08-15T08:29,Finance,Completed,Project Update,Normal,48,251,46,8,Completed
+GF-100371,2026-08-23T19:29,Legal,Manager Approval,Contract Review,Urgent,48,48,34,85,Active
+GF-100372,2026-08-23T02:29,Projects,Review,Payment Request,High,120,65,36,62,Active
+GF-100373,2026-07-20T08:29,Customer Care,Final Approval,Contract Review,High,24,875,13,99,Delayed
+GF-100374,2026-08-23T07:29,Procurement,Completed,Approval Request,Normal,24,60,59,11,Completed
+GF-100375,2026-08-25T08:29,Finance,Manager Approval,Citizen Request,Normal,48,11,29,41,Active
+GF-100376,2026-07-25T13:29,Projects,Validation,Contract Review,Normal,168,750,36,99,Delayed
+GF-100377,2026-07-16T19:29,Legal,Completed,Contract Review,Normal,72,960,34,4,Completed
+GF-100378,2026-08-10T06:29,Legal,Completed,Approval Request,Urgent,120,373,19,3,Completed
+GF-100379,2026-07-23T06:29,Procurement,Completed,Contract Review,Normal,72,805,15,17,Completed
+GF-100380,2026-07-31T17:29,Customer Care,Intake,Contract Review,Normal,168,602,52,99,Delayed
+GF-100381,2026-08-05T07:29,Finance,Manager Approval,Contract Review,Normal,72,492,24,99,Delayed
+GF-100382,2026-07-19T16:29,Legal,Validation,Citizen Request,Normal,48,891,39,99,Delayed
+GF-100383,2026-08-03T13:29,Finance,Manager Approval,Contract Review,High,120,534,17,99,Delayed
+GF-100384,2026-08-06T00:29,Projects,Completed,Project Update,Normal,24,475,30,3,Completed
+GF-100385,2026-08-03T07:29,Legal,Final Approval,Approval Request,Urgent,168,540,26,99,Delayed
+GF-100386,2026-07-28T02:29,Projects,Validation,Approval Request,Normal,168,689,16,99,Delayed
+GF-100387,2026-08-11T15:29,Procurement,Review,Procurement Request,Normal,48,340,50,99,Delayed
+GF-100388,2026-08-21T19:29,Projects,Completed,Payment Request,Normal,24,96,38,3,Completed
+GF-100389,2026-07-27T18:29,Customer Care,Review,Citizen Request,Normal,48,697,56,99,Delayed
+GF-100390,2026-07-13T06:29,Finance,Review,Payment Request,Normal,48,1045,21,99,Delayed
+GF-100391,2026-08-16T18:29,Customer Care,Manager Approval,Citizen Request,Normal,168,217,51,99,Delayed
+GF-100392,2026-07-21T04:29,Legal,Review,Contract Review,Normal,24,855,18,99,Delayed
+GF-100393,2026-07-23T12:29,Legal,Completed,Procurement Request,High,168,799,60,16,Completed
+GF-100394,2026-08-03T01:29,Finance,Review,Payment Request,Normal,168,546,21,99,Delayed
+GF-100395,2026-08-24T11:29,Procurement,Manager Approval,Contract Review,Normal,24,32,59,99,Delayed
+GF-100396,2026-07-14T12:29,Customer Care,Completed,Procurement Request,High,72,1015,57,8,Completed
+GF-100397,2026-08-01T08:29,Projects,Review,Procurement Request,Normal,48,587,30,99,Delayed
+GF-100398,2026-07-12T08:29,Customer Care,Validation,Procurement Request,Normal,168,1067,22,99,Delayed
+GF-100399,2026-07-25T18:29,Legal,Review,Procurement Request,Normal,24,745,24,99,Delayed
+GF-100400,2026-08-04T00:29,Projects,Review,Approval Request,Normal,48,523,21,99,Delayed
+GF-100401,2026-07-19T15:29,Customer Care,Completed,Procurement Request,Normal,24,892,14,13,Completed
+GF-100402,2026-08-06T09:29,Projects,Final Approval,Project Update,Normal,48,466,37,99,Delayed
+GF-100403,2026-07-11T02:29,Finance,Review,Citizen Request,Normal,168,1097,47,99,Delayed
+GF-100404,2026-07-12T10:29,Projects,Final Approval,Procurement Request,Normal,48,1065,54,99,Delayed
+GF-100405,2026-07-18T09:29,Projects,Final Approval,Contract Review,Normal,168,922,16,99,Delayed
+GF-100406,2026-08-21T12:29,Finance,Validation,Citizen Request,Normal,72,103,15,82,Delayed
+GF-100407,2026-08-12T12:29,Finance,Review,Approval Request,Normal,24,319,16,99,Delayed
+GF-100408,2026-07-30T14:29,Procurement,Completed,Citizen Request,High,120,629,32,4,Completed
+GF-100409,2026-07-19T23:29,Projects,Manager Approval,Approval Request,Normal,48,884,12,99,Delayed
+GF-100410,2026-08-19T17:29,Projects,Completed,Approval Request,Normal,72,146,20,18,Completed
+GF-100411,2026-07-17T04:29,Procurement,Completed,Approval Request,Normal,24,951,20,6,Completed
+GF-100412,2026-08-12T13:29,HR,Manager Approval,Project Update,Normal,120,318,56,99,Delayed
+GF-100413,2026-08-10T16:29,Procurement,Manager Approval,Approval Request,Normal,24,363,41,99,Delayed
+GF-100414,2026-07-29T17:29,HR,Manager Approval,Approval Request,Normal,72,650,40,99,Delayed
+GF-100415,2026-08-14T23:29,Legal,Manager Approval,Citizen Request,Normal,72,260,17,99,Delayed
+GF-100416,2026-07-14T11:29,HR,Manager Approval,Citizen Request,Normal,24,1016,21,99,Delayed
+GF-100417,2026-07-28T18:29,Procurement,Manager Approval,Procurement Request,Normal,72,673,24,99,Delayed
+GF-100418,2026-07-12T16:29,HR,Review,Procurement Request,Normal,24,1059,44,99,Delayed
+GF-100419,2026-08-22T07:29,Procurement,Completed,Citizen Request,Normal,168,84,53,8,Completed
+GF-100420,2026-07-31T18:29,Customer Care,Completed,Citizen Request,Normal,168,601,46,4,Completed
+GF-100421,2026-08-15T13:29,Projects,Intake,Contract Review,Urgent,48,246,15,99,Delayed
+GF-100422,2026-07-16T15:29,Finance,Review,Approval Request,Normal,168,964,56,99,Delayed
+GF-100423,2026-07-31T02:29,Finance,Manager Approval,Citizen Request,Normal,72,617,10,99,Delayed
+GF-100424,2026-08-16T15:29,Customer Care,Manager Approval,Procurement Request,High,168,220,16,83,Delayed
+GF-100425,2026-08-07T02:29,Procurement,Review,Procurement Request,Normal,72,449,51,99,Delayed
+GF-100426,2026-08-23T14:29,Procurement,Validation,Approval Request,Normal,72,53,48,74,Active
+GF-100427,2026-08-04T12:29,HR,Manager Approval,Approval Request,Normal,24,511,27,99,Delayed
+GF-100428,2026-08-06T10:29,Procurement,Completed,Contract Review,Normal,72,465,53,8,Completed
+GF-100429,2026-07-28T09:29,HR,Review,Contract Review,Normal,72,682,51,99,Delayed
+GF-100430,2026-07-30T04:29,Finance,Completed,Payment Request,High,168,639,42,3,Completed
+GF-100431,2026-07-31T15:29,Customer Care,Intake,Approval Request,Normal,168,604,22,99,Delayed
+GF-100432,2026-07-27T18:29,HR,Validation,Procurement Request,Normal,72,697,33,99,Delayed
+GF-100433,2026-08-18T19:29,Finance,Manager Approval,Citizen Request,Normal,48,168,38,99,Delayed
+GF-100434,2026-08-03T08:29,Finance,Final Approval,Payment Request,Normal,48,539,54,99,Delayed
+GF-100435,2026-08-22T14:29,Projects,Completed,Payment Request,High,168,77,51,7,Completed
+GF-100436,2026-07-24T19:29,Procurement,Completed,Contract Review,Normal,24,768,51,1,Completed
+GF-100437,2026-08-05T23:29,Procurement,Completed,Contract Review,Normal,72,476,32,9,Completed
+GF-100438,2026-07-13T03:29,Procurement,Manager Approval,Project Update,Urgent,168,1048,10,99,Delayed
+GF-100439,2026-08-02T02:29,Customer Care,Review,Citizen Request,Normal,168,569,53,99,Delayed
+GF-100440,2026-08-07T23:29,Finance,Review,Contract Review,Normal,72,428,55,99,Delayed
+GF-100441,2026-08-10T18:29,Procurement,Final Approval,Project Update,Normal,168,361,53,99,Delayed
+GF-100442,2026-07-25T10:29,Procurement,Review,Procurement Request,High,72,753,57,99,Delayed
+GF-100443,2026-07-20T13:29,HR,Final Approval,Project Update,Normal,72,870,53,99,Delayed
+GF-100444,2026-08-06T14:29,Projects,Review,Project Update,Normal,168,461,40,99,Delayed
+GF-100445,2026-07-21T14:29,HR,Validation,Project Update,High,72,845,32,99,Delayed
+GF-100446,2026-07-30T09:29,Finance,Manager Approval,Citizen Request,Normal,72,634,39,99,Delayed
+GF-100447,2026-07-16T01:29,Customer Care,Intake,Approval Request,High,168,978,22,99,Delayed
+GF-100448,2026-08-01T03:29,Procurement,Intake,Contract Review,Normal,72,592,19,99,Delayed
+GF-100449,2026-07-20T05:29,Finance,Completed,Payment Request,Normal,48,878,21,16,Completed
+GF-100450,2026-08-14T09:29,Legal,Manager Approval,Procurement Request,High,24,274,23,99,Delayed
+GF-100451,2026-07-25T17:29,Customer Care,Review,Citizen Request,Urgent,48,746,37,99,Delayed
+GF-100452,2026-08-01T19:29,Customer Care,Validation,Payment Request,High,24,576,33,99,Delayed
+GF-100453,2026-07-23T13:29,HR,Intake,Contract Review,High,24,798,56,99,Delayed
+GF-100454,2026-08-03T10:29,Legal,Review,Contract Review,Normal,48,537,47,99,Delayed
+GF-100455,2026-08-23T10:29,Procurement,Final Approval,Payment Request,Normal,72,57,48,81,Active
+GF-100456,2026-07-13T15:29,Procurement,Review,Citizen Request,Normal,72,1036,22,99,Delayed
+GF-100457,2026-08-11T15:29,HR,Intake,Approval Request,Normal,48,340,42,99,Delayed
+GF-100458,2026-07-15T18:29,HR,Review,Procurement Request,Urgent,120,985,44,99,Delayed
+GF-100459,2026-07-14T16:29,Legal,Final Approval,Citizen Request,Normal,24,1011,36,99,Delayed
+GF-100460,2026-08-09T04:29,Projects,Final Approval,Payment Request,Normal,48,399,50,99,Delayed
+GF-100461,2026-08-19T03:29,Customer Care,Manager Approval,Approval Request,Normal,72,160,18,99,Delayed
+GF-100462,2026-07-17T16:29,Legal,Completed,Payment Request,High,72,939,41,7,Completed
+GF-100463,2026-08-13T08:29,Finance,Validation,Contract Review,High,120,299,45,99,Delayed
+GF-100464,2026-07-26T09:29,Legal,Intake,Procurement Request,High,48,730,15,99,Delayed
+GF-100465,2026-08-16T17:29,Legal,Final Approval,Project Update,Normal,168,218,16,82,Delayed
+GF-100466,2026-08-07T11:29,Legal,Validation,Payment Request,Normal,120,440,21,99,Delayed
+GF-100467,2026-07-13T09:29,HR,Validation,Approval Request,High,120,1042,58,99,Delayed
+GF-100468,2026-07-13T23:29,Finance,Review,Project Update,Normal,48,1028,38,99,Delayed
+GF-100469,2026-08-04T14:29,Procurement,Review,Citizen Request,High,24,509,39,99,Delayed
+GF-100470,2026-07-26T06:29,Legal,Validation,Contract Review,Normal,48,733,56,99,Delayed
+GF-100471,2026-07-19T04:29,HR,Review,Payment Request,Normal,168,903,49,99,Delayed
+GF-100472,2026-07-13T15:29,Procurement,Validation,Approval Request,Normal,120,1036,36,99,Delayed
+GF-100473,2026-07-15T09:29,HR,Completed,Procurement Request,Normal,24,994,43,11,Completed
+GF-100474,2026-07-12T00:29,Procurement,Final Approval,Payment Request,High,24,1075,25,99,Delayed
+GF-100475,2026-07-15T07:29,Customer Care,Completed,Project Update,Urgent,48,996,49,1,Completed
+GF-100476,2026-07-24T04:29,Projects,Intake,Contract Review,Normal,120,783,41,99,Delayed
+GF-100477,2026-08-08T18:29,Projects,Manager Approval,Contract Review,Normal,168,409,34,99,Delayed
+GF-100478,2026-07-28T01:29,Legal,Completed,Citizen Request,High,120,690,38,4,Completed
+GF-100479,2026-08-24T16:29,Procurement,Intake,Approval Request,High,120,27,45,36,Active
+GF-100480,2026-07-16T23:29,Customer Care,Manager Approval,Payment Request,Normal,72,956,51,99,Delayed
+GF-100481,2026-08-22T12:29,Finance,Manager Approval,Project Update,High,120,79,49,79,Active
+GF-100482,2026-07-11T05:29,Legal,Completed,Payment Request,High,24,1094,24,11,Completed
+GF-100483,2026-08-07T02:29,Finance,Final Approval,Citizen Request,Normal,168,449,12,99,Delayed
+GF-100484,2026-07-11T06:29,Finance,Manager Approval,Citizen Request,Normal,24,1093,22,99,Delayed
+GF-100485,2026-08-13T09:29,Procurement,Intake,Citizen Request,Normal,24,298,50,99,Delayed
+GF-100486,2026-07-19T03:29,Procurement,Intake,Procurement Request,Urgent,48,904,57,99,Delayed
+GF-100487,2026-07-19T04:29,Projects,Final Approval,Approval Request,Normal,168,903,21,99,Delayed
+GF-100488,2026-07-18T00:29,Customer Care,Completed,Citizen Request,Urgent,72,931,36,9,Completed
+GF-100489,2026-08-07T05:29,Projects,Review,Payment Request,High,48,446,54,99,Delayed
+GF-100490,2026-07-21T09:29,HR,Review,Project Update,Normal,168,850,23,99,Delayed
+GF-100491,2026-07-13T15:29,Customer Care,Manager Approval,Project Update,Normal,48,1036,50,99,Delayed
+GF-100492,2026-08-03T02:29,Customer Care,Manager Approval,Project Update,High,120,545,52,99,Delayed
+GF-100493,2026-07-22T10:29,Legal,Manager Approval,Contract Review,Normal,120,825,11,99,Delayed
+GF-100494,2026-08-22T13:29,Projects,Completed,Approval Request,High,72,78,53,5,Completed
+GF-100495,2026-08-07T13:29,Legal,Review,Procurement Request,High,168,438,38,99,Delayed
+GF-100496,2026-07-21T12:29,Procurement,Review,Project Update,High,168,847,60,99,Delayed
+GF-100497,2026-08-01T07:29,HR,Review,Approval Request,High,120,588,45,99,Delayed
+GF-100498,2026-08-13T00:29,Projects,Completed,Project Update,Normal,120,307,55,18,Completed
+GF-100499,2026-08-13T10:29,Projects,Completed,Project Update,Normal,120,297,14,6,Completed
+GF-100500,2026-08-01T18:29,Finance,Manager Approval,Procurement Request,High,120,577,18,99,Delayed
+GF-100501,2026-08-25T09:29,HR,Completed,Procurement Request,Normal,120,10,12,11,Completed
+GF-100502,2026-07-16T00:29,Procurement,Completed,Project Update,Normal,72,979,45,3,Completed
+GF-100503,2026-08-11T14:29,Legal,Completed,Procurement Request,Normal,168,341,20,18,Completed
+GF-100504,2026-08-03T12:29,HR,Review,Contract Review,Urgent,48,535,33,99,Delayed
+GF-100505,2026-07-17T03:29,Customer Care,Completed,Project Update,Normal,120,952,51,4,Completed
+GF-100506,2026-08-09T23:29,Customer Care,Review,Citizen Request,Urgent,168,380,12,99,Delayed
+GF-100507,2026-08-18T07:29,Customer Care,Final Approval,Payment Request,Normal,72,180,11,99,Delayed
+GF-100508,2026-07-24T05:29,Legal,Review,Payment Request,Normal,120,782,51,99,Delayed
+GF-100509,2026-08-19T14:29,Customer Care,Intake,Project Update,Normal,168,149,14,52,Active
+GF-100510,2026-08-12T06:29,Projects,Manager Approval,Project Update,High,24,325,54,99,Delayed
+GF-100511,2026-08-21T15:29,Procurement,Final Approval,Approval Request,Normal,24,100,12,99,Delayed
+GF-100512,2026-08-09T02:29,Customer Care,Completed,Citizen Request,Normal,24,401,26,13,Completed
+GF-100513,2026-07-29T09:29,Procurement,Final Approval,Project Update,High,24,658,44,99,Delayed
+GF-100514,2026-08-21T01:29,HR,Completed,Payment Request,High,24,114,32,4,Completed
+GF-100515,2026-08-06T00:29,Finance,Completed,Project Update,Normal,24,475,38,13,Completed
+GF-100516,2026-08-15T02:29,Projects,Final Approval,Project Update,Normal,48,257,60,99,Delayed
+GF-100517,2026-07-12T23:29,Legal,Manager Approval,Approval Request,Normal,72,1052,45,99,Delayed
+GF-100518,2026-07-20T00:29,Customer Care,Manager Approval,Contract Review,High,120,883,15,99,Delayed
+GF-100519,2026-08-03T13:29,HR,Completed,Contract Review,Normal,120,534,19,6,Completed
+GF-100520,2026-08-09T13:29,Projects,Final Approval,Procurement Request,Normal,24,390,46,99,Delayed
+GF-100521,2026-07-21T17:29,HR,Intake,Project Update,Normal,72,842,16,99,Delayed
+GF-100522,2026-08-04T08:29,HR,Final Approval,Procurement Request,Normal,48,515,16,99,Delayed
+GF-100523,2026-08-13T09:29,Procurement,Review,Project Update,Normal,120,298,52,99,Delayed
+GF-100524,2026-07-20T01:29,Finance,Completed,Contract Review,High,72,882,20,11,Completed
+GF-100525,2026-07-10T23:29,Finance,Completed,Citizen Request,Normal,120,1100,18,16,Completed
+GF-100526,2026-08-06T04:29,Legal,Validation,Payment Request,High,168,471,48,99,Delayed
+GF-100527,2026-08-17T02:29,Finance,Final Approval,Project Update,Normal,48,209,50,99,Delayed
+GF-100528,2026-08-24T03:29,Customer Care,Manager Approval,Approval Request,Normal,24,40,59,99,Delayed
+GF-100529,2026-07-22T02:29,HR,Completed,Procurement Request,High,120,833,33,8,Completed
+GF-100530,2026-08-07T15:29,Customer Care,Manager Approval,Procurement Request,Normal,120,436,35,99,Delayed
+GF-100531,2026-08-10T00:29,Customer Care,Validation,Procurement Request,Urgent,48,379,20,99,Delayed
+GF-100532,2026-07-14T15:29,Finance,Intake,Contract Review,Normal,120,1012,58,99,Delayed
+GF-100533,2026-08-02T12:29,HR,Review,Citizen Request,Normal,24,559,60,99,Delayed
+GF-100534,2026-07-27T18:29,HR,Review,Project Update,High,24,697,55,99,Delayed
+GF-100535,2026-08-09T01:29,Customer Care,Validation,Payment Request,Normal,168,402,51,99,Delayed
+GF-100536,2026-08-21T03:29,Procurement,Completed,Payment Request,High,72,112,24,13,Completed
+GF-100537,2026-08-03T04:29,Customer Care,Intake,Contract Review,Normal,120,543,18,99,Delayed
+GF-100538,2026-07-23T23:29,Projects,Validation,Procurement Request,High,72,788,20,99,Delayed
+GF-100539,2026-08-18T12:29,Finance,Final Approval,Citizen Request,Normal,120,175,40,99,Delayed
+GF-100540,2026-08-14T23:29,Legal,Review,Contract Review,Normal,120,260,18,99,Delayed
+GF-100541,2026-08-23T01:29,Legal,Validation,Citizen Request,Normal,48,66,21,96,Delayed
+GF-100542,2026-07-19T23:29,HR,Final Approval,Contract Review,Normal,24,884,28,99,Delayed
+GF-100543,2026-07-26T04:29,Projects,Completed,Procurement Request,High,48,735,48,6,Completed
+GF-100544,2026-08-09T14:29,Procurement,Manager Approval,Citizen Request,Normal,72,389,14,99,Delayed
+GF-100545,2026-08-19T19:29,Customer Care,Completed,Procurement Request,Normal,48,144,42,5,Completed
+GF-100546,2026-07-26T00:29,Legal,Completed,Approval Request,Normal,168,739,44,4,Completed
+GF-100547,2026-08-17T00:29,Legal,Completed,Citizen Request,Normal,168,211,59,17,Completed
+GF-100548,2026-08-23T03:29,Projects,Completed,Procurement Request,High,120,64,40,12,Completed
+GF-100549,2026-07-12T01:29,Procurement,Validation,Approval Request,Normal,24,1074,40,99,Delayed
+GF-100550,2026-07-22T06:29,Projects,Intake,Procurement Request,Normal,72,829,57,99,Delayed
+GF-100551,2026-07-23T19:29,HR,Review,Payment Request,Normal,120,792,30,99,Delayed
+GF-100552,2026-07-28T23:29,Finance,Review,Procurement Request,Normal,168,668,44,99,Delayed
+GF-100553,2026-08-08T07:29,Procurement,Manager Approval,Contract Review,Normal,48,420,45,99,Delayed
+GF-100554,2026-07-21T04:29,Finance,Manager Approval,Project Update,Normal,72,855,59,99,Delayed
+GF-100555,2026-07-14T16:29,Procurement,Completed,Procurement Request,Normal,48,1011,20,7,Completed
+GF-100556,2026-08-04T02:29,HR,Final Approval,Citizen Request,Urgent,168,521,13,99,Delayed
+GF-100557,2026-08-25T17:29,Procurement,Completed,Payment Request,Normal,48,2,37,3,Completed
+GF-100558,2026-08-20T00:29,HR,Review,Payment Request,High,24,139,35,99,Delayed
+GF-100559,2026-07-18T18:29,HR,Manager Approval,Project Update,Urgent,48,913,10,99,Delayed
+GF-100560,2026-07-23T10:29,Legal,Completed,Procurement Request,Normal,48,801,42,8,Completed
+GF-100561,2026-08-23T08:29,HR,Intake,Payment Request,High,48,59,20,67,Delayed
+GF-100562,2026-08-03T07:29,Customer Care,Review,Approval Request,Normal,120,540,10,99,Delayed
+GF-100563,2026-07-21T01:29,Finance,Completed,Citizen Request,Urgent,72,858,27,7,Completed
+GF-100564,2026-07-20T19:29,Projects,Review,Procurement Request,Normal,72,864,16,99,Delayed
+GF-100565,2026-08-18T03:29,Customer Care,Completed,Citizen Request,Normal,72,184,46,15,Completed
+GF-100566,2026-08-10T09:29,HR,Manager Approval,Citizen Request,Normal,120,370,47,99,Delayed
+GF-100567,2026-08-21T07:29,HR,Final Approval,Payment Request,Normal,48,108,30,99,Delayed
+GF-100568,2026-08-25T11:29,Finance,Validation,Approval Request,Normal,48,8,53,39,Active
+GF-100569,2026-08-14T04:29,Finance,Review,Contract Review,Urgent,72,279,46,99,Delayed
+GF-100570,2026-07-13T13:29,HR,Validation,Payment Request,Normal,120,1038,57,99,Delayed
+GF-100571,2026-08-13T12:29,Finance,Validation,Approval Request,High,168,295,16,91,Delayed
+GF-100572,2026-07-14T04:29,Legal,Completed,Payment Request,Normal,168,1023,44,16,Completed
+GF-100573,2026-07-25T01:29,Procurement,Validation,Payment Request,Normal,72,762,58,99,Delayed
+GF-100574,2026-07-20T15:29,Customer Care,Completed,Payment Request,Normal,24,868,40,17,Completed
+GF-100575,2026-07-13T14:29,Legal,Final Approval,Project Update,Normal,120,1037,39,99,Delayed
+GF-100576,2026-07-13T13:29,Customer Care,Validation,Contract Review,Normal,120,1038,33,99,Delayed
+GF-100577,2026-08-10T11:29,Customer Care,Review,Citizen Request,Normal,120,368,21,99,Delayed
+GF-100578,2026-07-12T08:29,Procurement,Review,Procurement Request,High,72,1067,21,99,Delayed
+GF-100579,2026-08-19T11:29,Customer Care,Review,Contract Review,High,48,152,34,99,Delayed
+GF-100580,2026-08-16T04:29,Projects,Review,Procurement Request,High,24,231,18,99,Delayed
+GF-100581,2026-07-25T10:29,Customer Care,Completed,Project Update,Normal,72,753,13,4,Completed
+GF-100582,2026-08-12T11:29,HR,Validation,Payment Request,Normal,120,320,57,99,Delayed
+GF-100583,2026-07-21T02:29,Finance,Intake,Project Update,Urgent,72,857,17,99,Delayed
+GF-100584,2026-08-13T01:29,HR,Final Approval,Payment Request,Normal,168,306,21,99,Delayed
+GF-100585,2026-07-24T04:29,Legal,Review,Project Update,Urgent,120,783,28,99,Delayed
+GF-100586,2026-08-14T23:29,Procurement,Final Approval,Approval Request,Normal,72,260,46,99,Delayed
+GF-100587,2026-08-04T12:29,Finance,Final Approval,Procurement Request,Normal,72,511,55,99,Delayed
+GF-100588,2026-08-08T05:29,HR,Manager Approval,Contract Review,Normal,72,422,38,99,Delayed
+GF-100589,2026-08-24T15:29,HR,Review,Contract Review,Normal,48,28,57,66,Active
+GF-100590,2026-08-19T16:29,Procurement,Manager Approval,Procurement Request,High,24,147,11,99,Delayed
+GF-100591,2026-08-20T16:29,Customer Care,Validation,Payment Request,Normal,72,123,51,99,Delayed
+GF-100592,2026-08-07T05:29,Projects,Manager Approval,Approval Request,High,48,446,20,99,Delayed
+GF-100593,2026-08-05T04:29,Customer Care,Completed,Project Update,Normal,120,495,45,5,Completed
+GF-100594,2026-07-19T00:29,HR,Final Approval,Procurement Request,Normal,120,907,46,99,Delayed
+GF-100595,2026-07-22T10:29,Procurement,Manager Approval,Payment Request,Normal,72,825,15,99,Delayed
+GF-100596,2026-08-09T15:29,Legal,Intake,Payment Request,Normal,72,388,58,99,Delayed
+GF-100597,2026-07-22T19:29,Procurement,Review,Payment Request,Normal,120,816,59,99,Delayed
+GF-100598,2026-08-25T02:29,Projects,Review,Citizen Request,Normal,72,17,45,55,Active
+GF-100599,2026-07-10T23:29,Procurement,Review,Project Update,Normal,120,1100,15,99,Delayed
+GF-100600,2026-07-17T11:29,HR,Final Approval,Contract Review,High,72,944,27,99,Delayed
+GF-100601,2026-08-14T15:29,Legal,Final Approval,Payment Request,High,72,268,49,99,Delayed
+GF-100602,2026-07-25T13:29,Legal,Validation,Contract Review,Urgent,72,750,44,99,Delayed
+GF-100603,2026-08-07T11:29,HR,Review,Approval Request,Normal,48,440,10,99,Delayed
+GF-100604,2026-07-25T13:29,Procurement,Review,Citizen Request,High,72,750,41,99,Delayed
+GF-100605,2026-08-23T09:29,Projects,Intake,Approval Request,Normal,24,58,59,99,Delayed
+GF-100606,2026-08-14T13:29,Procurement,Completed,Citizen Request,Normal,72,270,17,13,Completed
+GF-100607,2026-08-23T13:29,HR,Completed,Citizen Request,High,120,54,43,16,Completed
+GF-100608,2026-08-06T09:29,HR,Final Approval,Approval Request,Normal,48,466,57,99,Delayed
+GF-100609,2026-07-16T10:29,Finance,Completed,Contract Review,Normal,48,969,52,4,Completed
+GF-100610,2026-08-05T19:29,Finance,Manager Approval,Approval Request,Urgent,48,480,35,99,Delayed
+GF-100611,2026-07-19T04:29,Projects,Review,Contract Review,Normal,168,903,15,99,Delayed
+GF-100612,2026-07-13T00:29,HR,Intake,Project Update,Normal,72,1051,32,99,Delayed
+GF-100613,2026-08-19T15:29,Projects,Review,Citizen Request,High,120,148,45,99,Delayed
+GF-100614,2026-08-24T07:29,HR,Validation,Project Update,Normal,72,36,12,41,Active
+GF-100615,2026-08-07T02:29,Projects,Manager Approval,Payment Request,High,120,449,44,99,Delayed
+GF-100616,2026-08-08T00:29,Projects,Intake,Payment Request,High,168,427,19,99,Delayed
+GF-100617,2026-07-22T08:29,Legal,Completed,Approval Request,Normal,120,827,42,6,Completed
+GF-100618,2026-08-02T00:29,Finance,Final Approval,Contract Review,Normal,48,571,52,99,Delayed
+GF-100619,2026-07-25T02:29,Customer Care,Review,Approval Request,Normal,48,761,36,99,Delayed
+GF-100620,2026-07-14T17:29,Projects,Validation,Approval Request,Normal,24,1010,12,99,Delayed
+GF-100621,2026-08-19T18:29,HR,Completed,Procurement Request,High,168,145,52,17,Completed
+GF-100622,2026-08-09T18:29,Projects,Manager Approval,Contract Review,High,72,385,14,99,Delayed
+GF-100623,2026-08-20T05:29,Finance,Manager Approval,Project Update,Normal,24,134,36,99,Delayed
+GF-100624,2026-07-17T11:29,Legal,Final Approval,Contract Review,Urgent,168,944,29,99,Delayed
+GF-100625,2026-08-19T16:29,Customer Care,Review,Project Update,Normal,48,147,22,99,Delayed
+GF-100626,2026-07-16T14:29,HR,Manager Approval,Project Update,Normal,168,965,57,99,Delayed
+GF-100627,2026-07-13T05:29,Legal,Validation,Procurement Request,Normal,120,1046,21,99,Delayed
+GF-100628,2026-08-15T02:29,Procurement,Completed,Citizen Request,High,168,257,30,12,Completed
+GF-100629,2026-07-29T09:29,Projects,Manager Approval,Procurement Request,Urgent,168,658,23,99,Delayed
+GF-100630,2026-08-09T08:29,Procurement,Completed,Procurement Request,Normal,120,395,10,10,Completed
+GF-100631,2026-08-17T10:29,Finance,Completed,Project Update,High,24,201,23,1,Completed
+GF-100632,2026-07-21T03:29,Customer Care,Completed,Citizen Request,Normal,168,856,19,2,Completed
+GF-100633,2026-08-17T11:29,Customer Care,Review,Approval Request,Normal,72,200,26,99,Delayed
+GF-100634,2026-07-20T13:29,HR,Review,Citizen Request,High,24,870,40,99,Delayed
+GF-100635,2026-07-12T01:29,Customer Care,Final Approval,Approval Request,High,24,1074,12,99,Delayed
+GF-100636,2026-08-04T08:29,Procurement,Completed,Project Update,High,120,515,17,1,Completed
+GF-100637,2026-08-01T18:29,Customer Care,Intake,Payment Request,Normal,72,577,44,99,Delayed
+GF-100638,2026-08-11T15:29,HR,Final Approval,Procurement Request,Normal,24,340,35,99,Delayed
+GF-100639,2026-08-20T12:29,Finance,Completed,Approval Request,Normal,120,127,19,11,Completed
+GF-100640,2026-08-22T02:29,Finance,Validation,Project Update,Normal,120,89,42,65,Active
+GF-100641,2026-08-17T04:29,Projects,Manager Approval,Procurement Request,Normal,168,207,51,98,Delayed
+GF-100642,2026-07-23T12:29,Legal,Review,Project Update,Urgent,48,799,37,99,Delayed
+GF-100643,2026-08-20T16:29,Procurement,Review,Payment Request,Normal,120,123,22,87,Delayed
+GF-100644,2026-08-24T10:29,Finance,Manager Approval,Citizen Request,Normal,48,33,38,64,Active
+GF-100645,2026-08-11T13:29,Projects,Completed,Contract Review,Urgent,72,342,15,2,Completed
+GF-100646,2026-08-16T10:29,Finance,Final Approval,Citizen Request,Normal,24,225,17,99,Delayed
+GF-100647,2026-08-04T13:29,Projects,Review,Procurement Request,Normal,168,510,43,99,Delayed
+GF-100648,2026-08-16T19:29,Customer Care,Completed,Contract Review,Normal,120,216,43,9,Completed
+GF-100649,2026-08-13T00:29,Legal,Manager Approval,Citizen Request,High,72,307,10,99,Delayed
+GF-100650,2026-07-14T08:29,Legal,Review,Contract Review,Urgent,24,1019,51,99,Delayed
+GF-100651,2026-07-24T16:29,Procurement,Completed,Contract Review,Normal,72,771,44,6,Completed
+GF-100652,2026-07-27T02:29,Legal,Review,Payment Request,Normal,24,713,43,99,Delayed
+GF-100653,2026-08-15T19:29,HR,Review,Contract Review,Urgent,72,240,50,99,Delayed
+GF-100654,2026-07-24T11:29,HR,Review,Procurement Request,Urgent,24,776,34,99,Delayed
+GF-100655,2026-08-11T15:29,Procurement,Final Approval,Procurement Request,Urgent,72,340,15,99,Delayed
+GF-100656,2026-07-16T23:29,Procurement,Review,Payment Request,Urgent,48,956,19,99,Delayed
+GF-100657,2026-08-04T05:29,Projects,Review,Contract Review,Normal,168,518,18,99,Delayed
+GF-100658,2026-07-11T03:29,Procurement,Completed,Payment Request,Normal,48,1096,59,6,Completed
+GF-100659,2026-07-22T16:29,Finance,Completed,Citizen Request,Urgent,48,819,19,11,Completed
+GF-100660,2026-08-06T05:29,Projects,Completed,Approval Request,High,72,470,16,6,Completed
+GF-100661,2026-07-17T00:29,Customer Care,Manager Approval,Contract Review,High,72,955,24,99,Delayed
+GF-100662,2026-08-03T17:29,Projects,Manager Approval,Project Update,Normal,120,530,48,99,Delayed
+GF-100663,2026-08-14T07:29,Procurement,Validation,Approval Request,Normal,120,276,22,99,Delayed
+GF-100664,2026-08-25T11:29,Projects,Final Approval,Approval Request,Normal,120,8,22,16,Active
+GF-100665,2026-07-28T00:29,HR,Review,Citizen Request,Normal,120,691,39,99,Delayed
+GF-100666,2026-08-23T00:29,HR,Review,Project Update,High,120,67,49,75,Active
+GF-100667,2026-08-23T03:29,Procurement,Manager Approval,Procurement Request,Normal,24,64,12,99,Delayed
+GF-100668,2026-08-23T02:29,Customer Care,Completed,Citizen Request,Normal,120,65,13,10,Completed
+GF-100669,2026-08-06T10:29,Projects,Review,Project Update,Normal,120,465,49,99,Delayed
+GF-100670,2026-08-16T05:29,Legal,Final Approval,Procurement Request,Urgent,120,230,17,99,Delayed
+GF-100671,2026-07-12T02:29,Procurement,Review,Contract Review,Normal,48,1073,38,99,Delayed
+GF-100672,2026-07-11T13:29,Legal,Review,Project Update,High,120,1086,54,99,Delayed
+GF-100673,2026-08-20T16:29,HR,Review,Project Update,High,120,123,43,91,Delayed
+GF-100674,2026-07-24T00:29,Procurement,Manager Approval,Payment Request,Normal,48,787,12,99,Delayed
+GF-100675,2026-07-14T15:29,Projects,Validation,Citizen Request,Normal,48,1012,55,99,Delayed
+GF-100676,2026-07-28T10:29,Legal,Completed,Approval Request,Normal,48,681,22,9,Completed
+GF-100677,2026-07-25T02:29,Customer Care,Completed,Citizen Request,Normal,24,761,25,16,Completed
+GF-100678,2026-08-20T00:29,Legal,Review,Procurement Request,Normal,168,139,45,86,Active
+GF-100679,2026-08-12T18:29,Projects,Intake,Contract Review,High,48,313,32,99,Delayed
+GF-100680,2026-07-14T01:29,Finance,Review,Approval Request,Normal,168,1026,15,99,Delayed
+GF-100681,2026-08-14T14:29,Customer Care,Final Approval,Citizen Request,High,72,269,54,99,Delayed
+GF-100682,2026-08-02T18:29,Finance,Review,Citizen Request,High,24,553,34,99,Delayed
+GF-100683,2026-08-21T10:29,Projects,Validation,Procurement Request,Normal,120,105,27,61,Active
+GF-100684,2026-08-12T13:29,Legal,Validation,Approval Request,Normal,168,318,56,99,Delayed
+GF-100685,2026-07-12T00:29,Procurement,Manager Approval,Procurement Request,Normal,72,1075,30,99,Delayed
+GF-100686,2026-07-17T08:29,Customer Care,Manager Approval,Citizen Request,High,48,947,43,99,Delayed
+GF-100687,2026-07-17T12:29,Projects,Intake,Project Update,High,72,943,11,99,Delayed
+GF-100688,2026-08-12T00:29,Procurement,Intake,Approval Request,Normal,120,331,32,99,Delayed
+GF-100689,2026-07-12T10:29,Legal,Review,Approval Request,Normal,72,1065,42,99,Delayed
+GF-100690,2026-08-04T09:29,HR,Manager Approval,Contract Review,Normal,120,514,11,99,Delayed
+GF-100691,2026-08-04T04:29,Legal,Final Approval,Project Update,Normal,120,519,40,99,Delayed
+GF-100692,2026-07-22T09:29,Procurement,Completed,Procurement Request,High,120,826,13,10,Completed
+GF-100693,2026-08-05T02:29,Legal,Review,Payment Request,Normal,168,497,53,99,Delayed
+GF-100694,2026-08-16T11:29,Finance,Completed,Contract Review,Normal,24,224,50,13,Completed
+GF-100695,2026-08-06T09:29,Finance,Review,Payment Request,Normal,24,466,41,99,Delayed
+GF-100696,2026-08-06T13:29,Finance,Validation,Contract Review,Urgent,168,462,33,99,Delayed
+GF-100697,2026-07-28T03:29,Procurement,Completed,Citizen Request,High,24,688,19,11,Completed
+GF-100698,2026-07-23T10:29,Projects,Completed,Contract Review,High,72,801,16,5,Completed
+GF-100699,2026-07-27T07:29,Legal,Intake,Payment Request,Normal,168,708,12,99,Delayed
+GF-100700,2026-08-23T16:29,HR,Final Approval,Project Update,High,168,51,11,25,Active
+GF-100701,2026-08-05T13:29,Finance,Review,Project Update,Normal,48,486,30,99,Delayed
+GF-100702,2026-08-16T14:29,Legal,Intake,Approval Request,Normal,72,221,49,99,Delayed
+GF-100703,2026-08-03T02:29,Finance,Validation,Procurement Request,Normal,72,545,55,99,Delayed
+GF-100704,2026-08-21T10:29,Finance,Manager Approval,Approval Request,Normal,168,105,13,50,Active
+GF-100705,2026-07-13T18:29,Procurement,Intake,Contract Review,High,24,1033,37,99,Delayed
+GF-100706,2026-07-18T23:29,Customer Care,Review,Project Update,High,120,908,31,99,Delayed
+GF-100707,2026-07-22T17:29,Customer Care,Validation,Approval Request,Normal,120,818,54,99,Delayed
+GF-100708,2026-07-12T23:29,Procurement,Review,Procurement Request,Normal,120,1052,24,99,Delayed
+GF-100709,2026-08-02T07:29,HR,Completed,Citizen Request,Normal,48,564,31,15,Completed
+GF-100710,2026-07-26T16:29,Procurement,Manager Approval,Payment Request,Normal,72,723,20,99,Delayed
+GF-100711,2026-08-17T03:29,Procurement,Completed,Procurement Request,Normal,24,208,60,11,Completed
+GF-100712,2026-08-06T02:29,Procurement,Manager Approval,Procurement Request,Normal,120,473,25,99,Delayed
+GF-100713,2026-07-26T07:29,Finance,Review,Citizen Request,Normal,24,732,54,99,Delayed
+GF-100714,2026-08-04T02:29,Projects,Final Approval,Approval Request,Normal,48,521,14,99,Delayed
+GF-100715,2026-07-27T09:29,Legal,Completed,Approval Request,Normal,168,706,21,13,Completed
+GF-100716,2026-07-13T00:29,Finance,Manager Approval,Approval Request,Normal,120,1051,52,99,Delayed
+GF-100717,2026-08-17T01:29,Projects,Final Approval,Citizen Request,Normal,24,210,38,99,Delayed
+GF-100718,2026-07-28T13:29,HR,Completed,Project Update,Urgent,48,678,29,14,Completed
+GF-100719,2026-08-03T17:29,Legal,Manager Approval,Contract Review,High,168,530,42,99,Delayed
+GF-100720,2026-08-22T08:29,Legal,Intake,Approval Request,High,168,83,45,60,Active
+GF-100721,2026-08-24T12:29,HR,Manager Approval,Project Update,Normal,120,31,50,55,Active
+GF-100722,2026-08-01T06:29,Projects,Final Approval,Contract Review,Normal,168,589,40,99,Delayed
+GF-100723,2026-08-02T06:29,Finance,Completed,Approval Request,Normal,48,565,52,5,Completed
+GF-100724,2026-08-24T15:29,HR,Review,Contract Review,Normal,120,28,18,31,Active
+GF-100725,2026-07-30T05:29,Procurement,Manager Approval,Citizen Request,Normal,168,638,39,99,Delayed
+GF-100726,2026-07-28T07:29,Projects,Validation,Procurement Request,Normal,72,684,48,99,Delayed
+GF-100727,2026-08-10T03:29,Procurement,Completed,Approval Request,Normal,72,376,46,2,Completed
+GF-100728,2026-07-11T08:29,Customer Care,Manager Approval,Contract Review,High,24,1091,54,99,Delayed
+GF-100729,2026-07-23T11:29,Customer Care,Intake,Contract Review,Normal,120,800,49,99,Delayed
+GF-100730,2026-07-14T17:29,Customer Care,Review,Procurement Request,High,168,1010,13,99,Delayed
+GF-100731,2026-07-26T05:29,Procurement,Manager Approval,Payment Request,Urgent,168,734,31,99,Delayed
+GF-100732,2026-08-07T10:29,Legal,Final Approval,Project Update,High,48,441,48,99,Delayed
+GF-100733,2026-08-09T18:29,Customer Care,Validation,Project Update,Normal,120,385,13,99,Delayed
+GF-100734,2026-08-07T04:29,Projects,Manager Approval,Payment Request,Normal,24,447,60,99,Delayed
+GF-100735,2026-08-08T11:29,Legal,Final Approval,Procurement Request,High,72,416,48,99,Delayed
+GF-100736,2026-07-14T05:29,Projects,Review,Citizen Request,Normal,72,1022,54,99,Delayed
+GF-100737,2026-07-23T18:29,Legal,Completed,Citizen Request,High,72,793,48,16,Completed
+GF-100738,2026-08-10T05:29,Projects,Manager Approval,Project Update,Normal,48,374,32,99,Delayed
+GF-100739,2026-08-18T18:29,Procurement,Review,Project Update,Urgent,48,169,29,99,Delayed
+GF-100740,2026-07-22T12:29,HR,Final Approval,Contract Review,Normal,120,823,40,99,Delayed
+GF-100741,2026-07-29T19:29,Procurement,Review,Project Update,Urgent,72,648,30,99,Delayed
+GF-100742,2026-08-19T02:29,Procurement,Manager Approval,Payment Request,Normal,72,161,51,99,Delayed
+GF-100743,2026-08-19T11:29,Procurement,Manager Approval,Project Update,High,168,152,53,93,Active
+GF-100744,2026-08-13T03:29,HR,Final Approval,Procurement Request,Normal,72,304,21,99,Delayed
+GF-100745,2026-08-25T17:29,Procurement,Validation,Payment Request,Normal,24,2,16,30,Active
+GF-100746,2026-08-07T11:29,Legal,Intake,Procurement Request,High,48,440,15,99,Delayed
+GF-100747,2026-08-12T00:29,HR,Completed,Project Update,High,24,331,15,13,Completed
+GF-100748,2026-07-15T01:29,Legal,Final Approval,Citizen Request,High,48,1002,26,99,Delayed
+GF-100749,2026-08-20T23:29,Finance,Completed,Contract Review,High,120,116,54,9,Completed
+GF-100750,2026-08-08T18:29,Procurement,Review,Payment Request,Normal,120,409,13,99,Delayed
+GF-100751,2026-08-21T04:29,Customer Care,Review,Approval Request,Normal,48,111,51,99,Delayed
+GF-100752,2026-07-29T13:29,HR,Validation,Approval Request,Normal,168,654,38,99,Delayed
+GF-100753,2026-08-21T01:29,Procurement,Intake,Project Update,Normal,72,114,41,99,Delayed
+GF-100754,2026-08-23T07:29,Projects,Final Approval,Procurement Request,High,72,60,35,53,Active
+GF-100755,2026-07-25T04:29,Procurement,Completed,Contract Review,Normal,120,759,59,18,Completed
+GF-100756,2026-07-12T04:29,Customer Care,Manager Approval,Project Update,Normal,24,1071,32,99,Delayed
+GF-100757,2026-08-21T23:29,Finance,Manager Approval,Citizen Request,High,24,92,31,99,Delayed
+GF-100758,2026-08-06T23:29,Projects,Manager Approval,Payment Request,High,48,452,34,99,Delayed
+GF-100759,2026-08-18T23:29,Procurement,Validation,Project Update,Normal,72,164,50,99,Delayed
+GF-100760,2026-08-23T13:29,HR,Completed,Approval Request,High,24,54,25,13,Completed
+GF-100761,2026-07-15T10:29,Customer Care,Completed,Payment Request,Normal,120,993,38,2,Completed
+GF-100762,2026-08-23T07:29,Projects,Completed,Project Update,High,24,60,52,15,Completed
+GF-100763,2026-07-22T15:29,Projects,Completed,Project Update,Normal,168,820,12,16,Completed
+GF-100764,2026-07-17T18:29,HR,Final Approval,Project Update,Normal,48,937,10,99,Delayed
+GF-100765,2026-08-06T16:29,Customer Care,Validation,Approval Request,Normal,120,459,47,99,Delayed
+GF-100766,2026-07-18T00:29,Legal,Completed,Payment Request,Normal,48,931,37,13,Completed
+GF-100767,2026-07-13T01:29,Projects,Review,Approval Request,Normal,168,1050,60,99,Delayed
+GF-100768,2026-08-04T17:29,Finance,Validation,Project Update,Normal,24,506,36,99,Delayed
+GF-100769,2026-08-15T05:29,Customer Care,Intake,Contract Review,Normal,48,254,16,99,Delayed
+GF-100770,2026-07-25T17:29,Legal,Validation,Citizen Request,High,24,746,15,99,Delayed
+GF-100771,2026-07-26T15:29,Projects,Final Approval,Citizen Request,Normal,48,724,43,99,Delayed
+GF-100772,2026-08-14T00:29,Customer Care,Validation,Project Update,High,24,283,41,99,Delayed
+GF-100773,2026-08-06T08:29,Legal,Manager Approval,Procurement Request,Urgent,120,467,22,99,Delayed
+GF-100774,2026-07-17T08:29,Customer Care,Review,Payment Request,Normal,168,947,59,99,Delayed
+GF-100775,2026-08-18T15:29,Procurement,Validation,Approval Request,Normal,120,172,52,99,Delayed
+GF-100776,2026-08-07T13:29,Finance,Review,Approval Request,Normal,120,438,58,99,Delayed
+GF-100777,2026-08-22T02:29,Projects,Completed,Approval Request,High,48,89,41,4,Completed
+GF-100778,2026-07-28T01:29,Finance,Review,Contract Review,High,168,690,57,99,Delayed
+GF-100779,2026-08-05T12:29,Projects,Final Approval,Contract Review,Normal,24,487,22,99,Delayed
+GF-100780,2026-07-19T04:29,Procurement,Validation,Contract Review,Normal,24,903,49,99,Delayed
+GF-100781,2026-08-17T05:29,HR,Review,Payment Request,Normal,48,206,27,99,Delayed
+GF-100782,2026-07-12T01:29,Finance,Validation,Citizen Request,Normal,24,1074,39,99,Delayed
+GF-100783,2026-08-04T12:29,Customer Care,Validation,Procurement Request,Urgent,72,511,60,99,Delayed
+GF-100784,2026-08-11T17:29,Customer Care,Manager Approval,Citizen Request,Normal,120,338,23,99,Delayed
+GF-100785,2026-07-29T12:29,Finance,Review,Procurement Request,High,48,655,24,99,Delayed
+GF-100786,2026-07-30T18:29,Procurement,Final Approval,Citizen Request,Normal,24,625,42,99,Delayed
+GF-100787,2026-07-26T16:29,Procurement,Review,Project Update,High,120,723,45,99,Delayed
+GF-100788,2026-08-12T15:29,Finance,Review,Citizen Request,High,72,316,15,99,Delayed
+GF-100789,2026-08-15T05:29,HR,Manager Approval,Contract Review,High,168,254,39,99,Delayed
+GF-100790,2026-07-31T14:29,HR,Manager Approval,Project Update,Normal,72,605,50,99,Delayed
+GF-100791,2026-07-12T09:29,Legal,Review,Project Update,Urgent,168,1066,58,99,Delayed
+GF-100792,2026-07-22T01:29,HR,Validation,Procurement Request,Urgent,48,834,31,99,Delayed
+GF-100793,2026-07-13T08:29,Legal,Review,Payment Request,Normal,24,1043,39,99,Delayed
+GF-100794,2026-07-15T02:29,Customer Care,Final Approval,Payment Request,Normal,24,1001,23,99,Delayed
+GF-100795,2026-08-17T23:29,HR,Completed,Payment Request,Normal,120,188,47,8,Completed
+GF-100796,2026-08-08T03:29,Finance,Intake,Citizen Request,Normal,120,424,33,99,Delayed
+GF-100797,2026-07-23T16:29,HR,Manager Approval,Citizen Request,Normal,120,795,44,99,Delayed
+GF-100798,2026-07-13T17:29,Procurement,Validation,Payment Request,Urgent,48,1034,35,99,Delayed
+GF-100799,2026-08-21T16:29,Finance,Validation,Contract Review,High,48,99,19,99,Delayed
+GF-100800,2026-07-22T23:29,Finance,Review,Citizen Request,Normal,24,812,53,99,Delayed
+GF-100801,2026-07-27T23:29,Finance,Validation,Procurement Request,Normal,24,692,11,99,Delayed
+GF-100802,2026-07-30T01:29,HR,Final Approval,Procurement Request,High,72,642,30,99,Delayed
+GF-100803,2026-07-23T02:29,Procurement,Review,Contract Review,High,120,809,18,99,Delayed
+GF-100804,2026-08-11T04:29,Finance,Completed,Payment Request,Normal,72,351,13,12,Completed
+GF-100805,2026-08-15T00:29,HR,Manager Approval,Project Update,High,48,259,21,99,Delayed
+GF-100806,2026-07-14T15:29,Projects,Validation,Citizen Request,Normal,48,1012,30,99,Delayed
+GF-100807,2026-08-14T13:29,HR,Intake,Contract Review,Normal,168,270,30,99,Delayed
+GF-100808,2026-07-22T14:29,Finance,Validation,Citizen Request,High,168,821,11,99,Delayed
+GF-100809,2026-07-27T09:29,Legal,Completed,Project Update,High,48,706,44,11,Completed
+GF-100810,2026-07-26T10:29,HR,Validation,Payment Request,High,168,729,46,99,Delayed
+GF-100811,2026-07-26T18:29,HR,Manager Approval,Citizen Request,Normal,48,721,29,99,Delayed
+GF-100812,2026-08-11T05:29,Legal,Review,Procurement Request,Normal,72,350,48,99,Delayed
+GF-100813,2026-08-08T13:29,Legal,Manager Approval,Procurement Request,Normal,24,414,38,99,Delayed
+GF-100814,2026-07-25T09:29,Customer Care,Manager Approval,Citizen Request,Normal,168,754,13,99,Delayed
+GF-100815,2026-07-29T08:29,Finance,Intake,Payment Request,Urgent,120,659,32,99,Delayed
+GF-100816,2026-07-21T17:29,HR,Completed,Payment Request,Normal,48,842,57,15,Completed
+GF-100817,2026-07-29T06:29,Customer Care,Manager Approval,Payment Request,Normal,48,661,19,99,Delayed
+GF-100818,2026-07-23T09:29,Customer Care,Completed,Project Update,Urgent,24,802,15,14,Completed
+GF-100819,2026-07-30T14:29,Procurement,Final Approval,Contract Review,Normal,168,629,58,99,Delayed
+GF-100820,2026-08-01T10:29,Procurement,Intake,Citizen Request,Normal,168,585,29,99,Delayed
+GF-100821,2026-07-27T12:29,Legal,Validation,Approval Request,High,24,703,29,99,Delayed
+GF-100822,2026-08-07T06:29,Procurement,Completed,Approval Request,High,48,445,51,1,Completed
+GF-100823,2026-07-25T17:29,HR,Review,Payment Request,Normal,168,746,40,99,Delayed
+GF-100824,2026-07-26T16:29,Customer Care,Final Approval,Contract Review,Normal,72,723,11,99,Delayed
+GF-100825,2026-08-16T09:29,HR,Validation,Payment Request,Normal,120,226,20,97,Delayed
+GF-100826,2026-07-16T08:29,Finance,Review,Procurement Request,Normal,24,971,50,99,Delayed
+GF-100827,2026-07-16T14:29,Customer Care,Completed,Project Update,High,24,965,44,11,Completed
+GF-100828,2026-08-08T08:29,Customer Care,Manager Approval,Contract Review,Normal,24,419,19,99,Delayed
+GF-100829,2026-08-02T04:29,Finance,Completed,Contract Review,Normal,120,567,20,7,Completed
+GF-100830,2026-08-13T02:29,HR,Completed,Citizen Request,Urgent,168,305,43,14,Completed
+GF-100831,2026-08-18T15:29,Procurement,Review,Contract Review,High,24,172,54,99,Delayed
+GF-100832,2026-07-18T03:29,Projects,Final Approval,Contract Review,Normal,72,928,11,99,Delayed
+GF-100833,2026-07-12T15:29,Finance,Validation,Citizen Request,High,48,1060,18,99,Delayed
+GF-100834,2026-08-18T17:29,Procurement,Completed,Approval Request,High,24,170,12,4,Completed
+GF-100835,2026-07-24T01:29,Procurement,Validation,Approval Request,Normal,24,786,26,99,Delayed
+GF-100836,2026-08-25T16:29,Customer Care,Review,Project Update,Normal,24,3,22,31,Active
+GF-100837,2026-08-20T15:29,Customer Care,Review,Project Update,Normal,72,124,20,99,Delayed
+GF-100838,2026-07-24T01:29,Legal,Completed,Contract Review,High,24,786,58,17,Completed
+GF-100839,2026-08-07T14:29,Legal,Completed,Project Update,Normal,168,437,16,17,Completed
+GF-100840,2026-07-12T01:29,Procurement,Final Approval,Payment Request,Urgent,48,1074,16,99,Delayed
+GF-100841,2026-07-29T13:29,Projects,Review,Approval Request,Normal,168,654,58,99,Delayed
+GF-100842,2026-07-23T15:29,Finance,Final Approval,Approval Request,Normal,120,796,45,99,Delayed
+GF-100843,2026-08-18T07:29,Procurement,Manager Approval,Contract Review,Normal,72,180,29,99,Delayed
+GF-100844,2026-08-07T06:29,Legal,Completed,Approval Request,Urgent,48,445,40,6,Completed
+GF-100845,2026-07-25T16:29,Procurement,Manager Approval,Approval Request,Normal,120,747,53,99,Delayed
+GF-100846,2026-07-31T01:29,HR,Completed,Contract Review,Normal,24,618,20,12,Completed
+GF-100847,2026-07-18T07:29,Projects,Completed,Project Update,High,24,924,56,9,Completed
+GF-100848,2026-07-19T11:29,Finance,Manager Approval,Citizen Request,Normal,120,896,48,99,Delayed
+GF-100849,2026-08-16T05:29,Legal,Review,Project Update,Urgent,24,230,41,99,Delayed
+GF-100850,2026-08-24T16:29,Legal,Manager Approval,Citizen Request,Normal,24,27,11,82,Delayed
+GF-100851,2026-08-05T15:29,Customer Care,Manager Approval,Project Update,High,72,484,58,99,Delayed
+GF-100852,2026-07-25T05:29,Finance,Final Approval,Payment Request,Normal,48,758,41,99,Delayed
+GF-100853,2026-07-22T02:29,Legal,Completed,Payment Request,High,24,833,17,15,Completed
+GF-100854,2026-07-28T05:29,Legal,Validation,Project Update,Normal,24,686,52,99,Delayed
+GF-100855,2026-07-29T15:29,HR,Review,Procurement Request,High,72,652,58,99,Delayed
+GF-100856,2026-07-14T02:29,Customer Care,Manager Approval,Procurement Request,Normal,168,1025,45,99,Delayed
+GF-100857,2026-08-09T04:29,Procurement,Manager Approval,Payment Request,Normal,168,399,32,99,Delayed
+GF-100858,2026-07-19T18:29,Finance,Review,Project Update,Normal,48,889,57,99,Delayed
+GF-100859,2026-08-19T06:29,Finance,Review,Contract Review,Normal,72,157,13,99,Delayed
+GF-100860,2026-08-06T01:29,HR,Intake,Payment Request,Normal,24,474,29,99,Delayed
+GF-100861,2026-07-22T09:29,Procurement,Final Approval,Citizen Request,Normal,24,826,37,99,Delayed
+GF-100862,2026-07-12T04:29,Legal,Completed,Procurement Request,Normal,168,1071,34,11,Completed
+GF-100863,2026-07-25T16:29,Finance,Manager Approval,Contract Review,Normal,48,747,58,99,Delayed
+GF-100864,2026-08-02T06:29,Procurement,Final Approval,Procurement Request,Normal,48,565,60,99,Delayed
+GF-100865,2026-08-09T18:29,Customer Care,Review,Project Update,High,72,385,24,99,Delayed
+GF-100866,2026-08-19T01:29,Finance,Intake,Citizen Request,Normal,72,162,43,99,Delayed
+GF-100867,2026-08-20T23:29,Customer Care,Completed,Citizen Request,Normal,72,116,37,7,Completed
+GF-100868,2026-07-17T03:29,HR,Completed,Contract Review,Normal,120,952,21,17,Completed
+GF-100869,2026-08-12T05:29,HR,Manager Approval,Procurement Request,High,72,326,49,99,Delayed
+GF-100870,2026-08-22T03:29,Finance,Manager Approval,Project Update,High,48,88,25,99,Delayed
+GF-100871,2026-08-06T06:29,Finance,Completed,Payment Request,High,120,469,14,14,Completed
+GF-100872,2026-07-15T14:29,HR,Manager Approval,Approval Request,Normal,72,989,35,99,Delayed
+GF-100873,2026-08-24T12:29,Procurement,Manager Approval,Project Update,Urgent,72,31,37,68,Active
+GF-100874,2026-08-13T14:29,Projects,Intake,Project Update,Normal,72,293,60,99,Delayed
+GF-100875,2026-07-15T18:29,Legal,Intake,Procurement Request,Normal,120,985,15,99,Delayed
+GF-100876,2026-08-21T06:29,HR,Final Approval,Project Update,High,72,109,15,88,Delayed
+GF-100877,2026-08-10T16:29,HR,Manager Approval,Project Update,High,168,363,17,99,Delayed
+GF-100878,2026-07-23T11:29,Legal,Review,Payment Request,High,120,800,17,99,Delayed
+GF-100879,2026-08-01T12:29,Projects,Validation,Payment Request,Normal,120,583,21,99,Delayed
+GF-100880,2026-08-09T01:29,Procurement,Manager Approval,Payment Request,Normal,24,402,54,99,Delayed
+GF-100881,2026-07-26T12:29,Projects,Review,Payment Request,Normal,72,727,55,99,Delayed
+GF-100882,2026-07-18T18:29,HR,Completed,Procurement Request,Normal,24,913,52,9,Completed
+GF-100883,2026-07-16T08:29,Customer Care,Completed,Citizen Request,Urgent,24,971,38,1,Completed
+GF-100884,2026-08-09T10:29,Projects,Review,Project Update,Normal,24,393,20,99,Delayed
+GF-100885,2026-07-15T06:29,Finance,Completed,Project Update,Normal,24,997,59,16,Completed
+GF-100886,2026-08-04T06:29,Projects,Final Approval,Payment Request,Normal,24,517,42,99,Delayed
+GF-100887,2026-07-21T09:29,HR,Intake,Project Update,Normal,120,850,13,99,Delayed
+GF-100888,2026-07-15T15:29,Procurement,Review,Procurement Request,Normal,24,988,29,99,Delayed
+GF-100889,2026-08-15T12:29,HR,Completed,Payment Request,Normal,168,247,51,14,Completed
+GF-100890,2026-08-17T11:29,HR,Manager Approval,Contract Review,Normal,48,200,30,99,Delayed
+GF-100891,2026-08-02T14:29,Procurement,Completed,Approval Request,Urgent,120,557,46,1,Completed
+GF-100892,2026-07-15T00:29,Legal,Completed,Approval Request,Normal,48,1003,22,6,Completed
+GF-100893,2026-07-29T00:29,Projects,Validation,Procurement Request,Normal,72,667,33,99,Delayed
+GF-100894,2026-07-11T03:29,Procurement,Completed,Project Update,Normal,120,1096,41,8,Completed
+GF-100895,2026-08-08T10:29,Procurement,Validation,Payment Request,High,120,417,23,99,Delayed
+GF-100896,2026-08-13T06:29,Procurement,Completed,Contract Review,Normal,48,301,11,9,Completed
+GF-100897,2026-08-10T08:29,HR,Final Approval,Citizen Request,Normal,168,371,15,99,Delayed
+GF-100898,2026-08-05T07:29,HR,Review,Approval Request,Normal,48,492,37,99,Delayed
+GF-100899,2026-08-22T18:29,Projects,Manager Approval,Approval Request,Normal,72,73,32,74,Delayed
+GF-100900,2026-07-17T07:29,Procurement,Final Approval,Procurement Request,Normal,72,948,18,99,Delayed
+GF-100901,2026-08-15T03:29,Finance,Completed,Project Update,Normal,120,256,18,11,Completed
+GF-100902,2026-08-16T11:29,Finance,Intake,Payment Request,High,24,224,18,99,Delayed
+GF-100903,2026-07-29T10:29,Customer Care,Completed,Citizen Request,High,72,657,26,11,Completed
+GF-100904,2026-08-05T04:29,Customer Care,Completed,Contract Review,Normal,48,495,52,2,Completed
+GF-100905,2026-08-11T14:29,Procurement,Review,Citizen Request,Normal,24,341,55,99,Delayed
+GF-100906,2026-07-25T18:29,Finance,Completed,Citizen Request,Normal,120,745,45,15,Completed
+GF-100907,2026-08-16T16:29,Legal,Review,Contract Review,High,72,219,28,99,Delayed
+GF-100908,2026-08-08T01:29,Projects,Manager Approval,Procurement Request,Normal,168,426,10,99,Delayed
+GF-100909,2026-08-21T12:29,HR,Validation,Payment Request,High,120,103,31,52,Active
+GF-100910,2026-07-13T16:29,Finance,Manager Approval,Contract Review,Normal,120,1035,16,99,Delayed
+GF-100911,2026-07-27T04:29,HR,Completed,Approval Request,High,120,711,48,11,Completed
+GF-100912,2026-07-28T09:29,Projects,Review,Payment Request,High,168,682,13,99,Delayed
+GF-100913,2026-08-21T02:29,Procurement,Validation,Contract Review,Urgent,168,113,26,54,Active
+GF-100914,2026-07-31T17:29,Projects,Validation,Payment Request,Normal,24,602,59,99,Delayed
+GF-100915,2026-07-15T15:29,Finance,Manager Approval,Project Update,Normal,24,988,37,99,Delayed
+GF-100916,2026-08-03T16:29,Customer Care,Validation,Citizen Request,Normal,72,531,38,99,Delayed
+GF-100917,2026-07-18T06:29,Procurement,Completed,Project Update,Normal,24,925,49,14,Completed
+GF-100918,2026-08-23T03:29,Procurement,Final Approval,Citizen Request,Normal,72,64,51,75,Active
+GF-100919,2026-07-15T03:29,Finance,Manager Approval,Payment Request,Normal,24,1000,15,99,Delayed
+GF-100920,2026-08-17T10:29,Customer Care,Review,Procurement Request,Normal,48,201,46,99,Delayed
+GF-100921,2026-08-23T03:29,Customer Care,Review,Project Update,High,24,64,16,99,Delayed
+GF-100922,2026-08-09T08:29,Customer Care,Validation,Approval Request,High,72,395,42,99,Delayed
+GF-100923,2026-07-27T14:29,Procurement,Intake,Payment Request,Normal,48,701,36,99,Delayed
+GF-100924,2026-07-27T05:29,Finance,Review,Contract Review,Normal,168,710,21,99,Delayed
+GF-100925,2026-07-18T11:29,Procurement,Manager Approval,Approval Request,Normal,24,920,10,99,Delayed
+GF-100926,2026-07-15T04:29,HR,Review,Payment Request,Normal,120,999,52,99,Delayed
+GF-100927,2026-07-17T08:29,Finance,Validation,Contract Review,Normal,120,947,18,99,Delayed
+GF-100928,2026-08-24T13:29,Projects,Manager Approval,Citizen Request,High,24,30,19,85,Delayed
+GF-100929,2026-07-22T13:29,Finance,Completed,Approval Request,Normal,24,822,19,14,Completed
+GF-100930,2026-08-16T05:29,Procurement,Intake,Contract Review,Normal,120,230,38,99,Delayed
+GF-100931,2026-07-31T18:29,Legal,Validation,Citizen Request,High,72,601,55,99,Delayed
+GF-100932,2026-07-19T00:29,Finance,Intake,Procurement Request,Normal,168,907,35,99,Delayed
+GF-100933,2026-07-17T04:29,HR,Intake,Procurement Request,Normal,48,951,11,99,Delayed
+GF-100934,2026-08-21T11:29,Procurement,Validation,Citizen Request,High,120,104,49,80,Active
+GF-100935,2026-08-24T14:29,HR,Validation,Contract Review,Normal,72,29,32,45,Active
+GF-100936,2026-07-19T09:29,HR,Final Approval,Project Update,High,168,898,18,99,Delayed
+GF-100937,2026-07-29T23:29,Procurement,Completed,Project Update,High,72,644,20,10,Completed
+GF-100938,2026-07-14T04:29,Projects,Validation,Approval Request,High,48,1023,48,99,Delayed
+GF-100939,2026-07-25T10:29,Projects,Manager Approval,Payment Request,Normal,48,753,11,99,Delayed
+GF-100940,2026-08-15T14:29,Legal,Completed,Procurement Request,Normal,168,245,31,4,Completed
+GF-100941,2026-07-21T12:29,Finance,Completed,Procurement Request,Normal,120,847,60,2,Completed
+GF-100942,2026-08-16T03:29,HR,Validation,Citizen Request,Urgent,168,232,13,83,Delayed
+GF-100943,2026-08-18T16:29,Customer Care,Completed,Approval Request,Normal,168,171,16,17,Completed
+GF-100944,2026-08-18T13:29,Projects,Final Approval,Procurement Request,Normal,72,174,55,99,Delayed
+GF-100945,2026-08-19T15:29,Finance,Completed,Citizen Request,High,72,148,17,15,Completed
+GF-100946,2026-08-25T12:29,Finance,Review,Payment Request,Normal,120,7,20,24,Active
+GF-100947,2026-07-30T08:29,Projects,Completed,Contract Review,High,48,635,43,8,Completed
+GF-100948,2026-07-30T06:29,Customer Care,Completed,Contract Review,High,120,637,33,15,Completed
+GF-100949,2026-07-11T03:29,Legal,Review,Citizen Request,Normal,24,1096,35,99,Delayed
+GF-100950,2026-08-22T23:29,Customer Care,Intake,Payment Request,Normal,48,68,50,99,Delayed
+GF-100951,2026-07-13T02:29,HR,Final Approval,Payment Request,Urgent,72,1049,32,99,Delayed
+GF-100952,2026-07-17T15:29,Procurement,Final Approval,Project Update,Normal,120,940,44,99,Delayed
+GF-100953,2026-07-15T07:29,Finance,Validation,Citizen Request,High,48,996,44,99,Delayed
+GF-100954,2026-08-17T03:29,Finance,Review,Procurement Request,Normal,168,208,42,98,Delayed
+GF-100955,2026-07-16T14:29,Legal,Completed,Payment Request,High,24,965,44,8,Completed
+GF-100956,2026-07-24T16:29,Finance,Review,Approval Request,Normal,24,771,42,99,Delayed
+GF-100957,2026-07-15T16:29,Finance,Manager Approval,Payment Request,Urgent,120,987,10,99,Delayed
+GF-100958,2026-07-19T01:29,Customer Care,Review,Project Update,High,168,906,29,99,Delayed
+GF-100959,2026-07-11T01:29,HR,Review,Approval Request,Normal,48,1098,57,99,Delayed
+GF-100960,2026-07-19T13:29,Procurement,Validation,Citizen Request,Normal,72,894,55,99,Delayed
+GF-100961,2026-08-22T06:29,Procurement,Review,Project Update,Normal,48,85,14,99,Delayed
+GF-100962,2026-07-19T02:29,Procurement,Completed,Citizen Request,High,168,905,47,14,Completed
+GF-100963,2026-07-25T06:29,Projects,Manager Approval,Contract Review,Urgent,48,757,41,99,Delayed
+GF-100964,2026-07-24T03:29,HR,Review,Project Update,Normal,24,784,40,99,Delayed
+GF-100965,2026-07-21T08:29,Customer Care,Completed,Procurement Request,Normal,24,851,17,12,Completed
+GF-100966,2026-07-23T15:29,Finance,Review,Payment Request,Normal,24,796,33,99,Delayed
+GF-100967,2026-08-16T15:29,Procurement,Intake,Contract Review,Normal,168,220,29,90,Delayed
+GF-100968,2026-07-25T19:29,Customer Care,Review,Citizen Request,Normal,24,744,12,99,Delayed
+GF-100969,2026-07-20T05:29,Procurement,Manager Approval,Contract Review,Normal,72,878,56,99,Delayed
+GF-100970,2026-07-27T05:29,Projects,Completed,Citizen Request,Normal,120,710,30,14,Completed
+GF-100971,2026-07-31T09:29,Legal,Completed,Contract Review,High,168,610,38,3,Completed
+GF-100972,2026-07-19T23:29,Customer Care,Final Approval,Contract Review,Urgent,72,884,51,99,Delayed
+GF-100973,2026-07-22T01:29,Customer Care,Manager Approval,Procurement Request,High,24,834,58,99,Delayed
+GF-100974,2026-08-18T02:29,Legal,Review,Project Update,High,48,185,23,99,Delayed
+GF-100975,2026-07-19T05:29,Customer Care,Manager Approval,Citizen Request,High,24,902,35,99,Delayed
+GF-100976,2026-08-24T09:29,Projects,Review,Citizen Request,Normal,120,34,43,53,Active
+GF-100977,2026-08-18T16:29,Projects,Review,Approval Request,Normal,168,171,21,76,Delayed
+GF-100978,2026-07-30T14:29,Customer Care,Completed,Payment Request,Normal,24,629,21,2,Completed
+GF-100979,2026-08-05T15:29,Finance,Review,Contract Review,Normal,120,484,17,99,Delayed
+GF-100980,2026-07-18T01:29,Procurement,Manager Approval,Approval Request,Normal,48,930,42,99,Delayed
+GF-100981,2026-08-05T05:29,Procurement,Intake,Project Update,Normal,168,494,11,99,Delayed
+GF-100982,2026-08-24T11:29,Customer Care,Final Approval,Payment Request,Normal,168,32,25,21,Active
+GF-100983,2026-07-28T17:29,Projects,Completed,Contract Review,High,168,674,19,18,Completed
+GF-100984,2026-07-22T06:29,Procurement,Intake,Project Update,Urgent,168,829,39,99,Delayed
+GF-100985,2026-08-25T18:29,Finance,Manager Approval,Payment Request,High,120,1,53,47,Active
+GF-100986,2026-08-12T01:29,Finance,Intake,Payment Request,Normal,168,330,57,99,Delayed
+GF-100987,2026-07-12T16:29,HR,Manager Approval,Contract Review,Normal,48,1059,27,99,Delayed
+GF-100988,2026-08-05T09:29,HR,Manager Approval,Payment Request,Normal,72,490,25,99,Delayed
+GF-100989,2026-07-18T09:29,HR,Validation,Approval Request,Urgent,24,922,10,99,Delayed
+GF-100990,2026-07-13T14:29,Customer Care,Completed,Procurement Request,Normal,120,1037,55,13,Completed
+GF-100991,2026-07-14T23:29,Customer Care,Intake,Project Update,Normal,24,1004,52,99,Delayed
+GF-100992,2026-08-01T00:29,Procurement,Validation,Approval Request,Normal,72,595,59,99,Delayed
+GF-100993,2026-08-13T05:29,Projects,Final Approval,Project Update,Urgent,24,302,58,99,Delayed
+GF-100994,2026-08-03T13:29,Customer Care,Manager Approval,Contract Review,Urgent,24,534,55,99,Delayed
+GF-100995,2026-08-02T18:29,Procurement,Completed,Contract Review,Urgent,72,553,55,1,Completed
+GF-100996,2026-07-16T07:29,Finance,Manager Approval,Procurement Request,Normal,24,972,41,99,Delayed
+GF-100997,2026-07-20T00:29,Projects,Intake,Contract Review,Normal,168,883,18,99,Delayed
+GF-100998,2026-07-20T12:29,HR,Completed,Procurement Request,Normal,168,871,22,18,Completed
+GF-100999,2026-07-21T05:29,Procurement,Final Approval,Payment Request,Normal,24,854,51,99,Delayed
+GF-101000,2026-07-30T11:29,HR,Manager Approval,Procurement Request,High,24,632,41,99,Delayed
