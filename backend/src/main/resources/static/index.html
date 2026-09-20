@@ -44,15 +44,21 @@ footer{padding:24px 0;color:var(--muted);font-size:12px}
  </div>
  <div class="result" id="simResult"></div>
 </section>
-<section class="card sim"><div class="section-title">Highest-Risk Active Transactions</div><div style="overflow:auto"><table><thead><tr><th>Case</th><th>Department</th><th>Stage</th><th>Priority</th><th>SLA</th><th>Age</th><th>Risk</th></tr></thead><tbody id="cases"></tbody></table></div></section>
+<section class="card sim">
+    <div class="section-title">Highest-Risk Transactions</div>
+    <table><thead><tr><th>Case</th><th>Department</th><th>Stage</th><th>Priority</th><th>SLA</th><th>Age</th><th>Risk</th></tr></thead><tbody id="cases"></tbody></table></div></section>
 <footer>GovFlow Intelligence v0.2 · Clean-room founder demo · All operational data shown here is synthetic.</footer>
 </main>
-<script src="dashboard-data.js"></script>
 <script>
-    const API = 'http://localhost:8080/api';
+    const API = '/api';
 
-    const D = window.GOVFLOW_DATA;
-    let S = D.summary;
+let S = {
+    total: 0,
+    active: 0,
+    delayed: 0,
+    highRisk: 0,
+    slaCompliance: 0
+};
 
     async function loadDashboard() {
         try {
@@ -65,7 +71,7 @@ footer{padding:24px 0;color:var(--muted);font-size:12px}
                 fetch(`${API}/dashboard/summary`),
                 fetch(`${API}/dashboard/departments`),
                 fetch(`${API}/dashboard/bottlenecks`),
-                fetch(`${API}/dashboard/high-risk-active`)
+fetch(`${API}/dashboard/high-risk`)
             ]);
 
             if (
@@ -89,14 +95,15 @@ footer{padding:24px 0;color:var(--muted);font-size:12px}
 
             // Keep simulator logic from v0.2.
             // Replace only values now coming from backend.
-            S = {
-                ...D.summary,
-                total: summary.totalTransactions,
-                active: summary.activeTransactions,
-                delayed: summary.delayedTransactions
-            };
+           S = {
+    total: summary.totalTransactions,
+    active: summary.activeTransactions,
+    delayed: summary.delayedTransactions,
+    highRisk: summary.highRiskTransactions,
+    slaCompliance: summary.slaCompliancePct
+};
 
-            simulate();
+simulate();
 
         } catch (error) {
             console.error('GovFlow dashboard error:', error);
@@ -117,8 +124,8 @@ footer{padding:24px 0;color:var(--muted);font-size:12px}
             ['Delayed', summary.delayedTransactions, 'danger'],
 
             // Temporary from v0.2 static data
-            ['High-Risk', D.summary.highRisk, 'warn'],
-            ['SLA Compliance', D.summary.slaCompliance + '%', 'good']
+            ['High-Risk', summary.highRiskTransactions, 'warn'],
+['SLA Compliance', summary.slaCompliancePct + '%', 'good']
 
         ].map(x => `
             <div class="card kpi">
